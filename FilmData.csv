@@ -1,4 +1,4 @@
-Film_Adi_TR,Film_Adi_Yabanci,Film_Turu,Yonetmen,Vizyon_Tarihi,Seyirci_Sayisi,Toplam_Hasilat,Yapimci,Oyuncular,IMDb,Gosterim_Hafta,Yapimci_Ulke
+Film_Adi_TR,Film_Adi_Yabanci,Film_Turu,Yonetmen,Vizyon_Tarihi,Seyirci_Sayisi,Toplam Has?lat,Yapimci,Oyuncular,IMDb,Gosterim_Hafta,Yapimci_Ulke
 Rafadan Tayfa Galaktik Tayfa,,Animasyon,?smail Fidan,01/06/2023,2746254,164255567,ISF Film Prodüksiyon,"?irin Giobbi, Levent Kol, Emine Sergen Kazbek",6.1,7,Türkiye
 Kutsal Damacana 4,,Komedi,Kamil Çetin,01/20/2023,921351,62308051,Poll Films,"?afak Sezer, Ersin Korkut, Müjde Uzman",3.1,5,Türkiye
 ?llegal Hayatlar,,Komedi,Cenk Çelik,01/13/2023,647349,43805535,"DMC, NETD, WOVIE, RETROPRO","Mahsun Karaca, ?ahin Sarsu, Mehmet Kahraman",7,6,Türkiye
@@ -36,336 +36,19 @@ Metronom,,Dram,Alexandru Belc,01/06/2023,1952,105778,"Emmanuel Quillet, Martine 
 Cennetten Gelen Çocuk,"Walad Min Al Janna, Boy From Heaven","Gerilim, Dram",Tarik Saleh,02/03/2023,1935,120929,"Kristina Åberg, Fredrik Zander","Tawfeek Barhom, Fares Fares, Mohammad Bakri",7.2,3,"Danimarka, Finlandiya, Fransa, ?sveç"
 Uçsuz Bucaks?z,L'Immensita,Dram,Emanuele Crialese,02/17/2023,963,69006,"Dimitri Rassam, Mario Gianani, Lorenzo Gangarossa","Penélope Cruz, Vincenzo Amato, Alvia Reale",6.3,1,"Fransa, ?talya"
 ?frit-i Cin,,Korku,Ertu?rul Yüreklikul,01/27/2023,1334,86532,Makinist Film,"Burak Ergün, Canan Çal??kan, Ertu?rul Yüreklikul",2.2,1,Türkiye
-Oppenheimer,Oppenheimer,"Dram, Tarihi, Biyografi, IMAX",Christopher Nolan,07/21/2023,1715544,189907334,"Emma Thomas, Charles Roven, Christopher Nolan","Cillian Murphy, Emily Blunt, Matt Damon",8.3,19,ABD
-Atatürk 1881 - 1919 (1. Film),,"Dram, Tarihi, Biyografi",Mehmet Ada Öztekin,11/03/2023,1618145,177638474,Lanistar Medya,"Aras Bulut ?ynemli, Songül Öden, Sarp Akkaya",8.9,20,Türkiye
-H?zl? ve Öfkeli 10,Fast X,"Macera, Suç, Aksiyon, 3 Boyutlu, IMAX",Louis Leterrier,05/19/2023,1577519,137029377,"Neal H. Moritz, Vin Diesel, Jeff Kirschenbaum","Vin Diesel, Michelle Rodriguez, Jason Momoa",5.8,13,ABD
-Ölümlü Dünya 2,,Komedi,Ali Atay,12/01/2023,1655338,214531952,TAFF,"Ahmet Mümtaz Taylan, Alper Kul, Do?u Demirkol",7.4,14,Türkiye
-Barbie,Barbie,"Macera, Komedi, Fantastik",Greta Gerwig,07/21/2023,1399139,141047157,"Margot Robbie, Tom Ackerley, Robbie Brenner","Margot Robbie, Ryan Gosling, America Ferrera",6.9,13,ABD
-John Wick 4,John Wick: Chapter 4,"Gerilim, Suç, Aksiyon",Chad Stahelski,03/22/2023,1050239,89082399,"Chad Stahelski, Basil Iwanyk, Erica Lee","Keanu Reeves, Donnie Yen, Bill Skarsgård",7.7,15,ABD
-Örümcek-Adam: Örümcek Evrenine Geçi?,Spider-Man: Across the Spider-Verse,"Macera, Animasyon, Aksiyon","Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",06/02/2023,566221,52407962,"Avi Arad, Peter Ramsey, Aditya Sood","Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",8.6,24,ABD
-Aslan Hürku? 3: Anka Adas?,,"Animasyon, Aile","H. Sinan Güngör, Halil Öztürk, Semih Tural?",11/10/2023,551946,52842497,Outline Animation and Games,"Duygu Biçer, Fatih Özkul, Elif Gizem Aykul",5.9,18,Türkiye
-Süper Mario Karde?ler Filmi,The Super Mario Bros. Movie,"Macera, Animasyon, 3 Boyutlu","Aaron Horvath, Michael Jelenic, Pierre Leduc, Fabien Polack",04/14/2023,541660,43560041,"Chris Meledandri, Shigeru Miyamoto","Chris Pratt, Anya Taylor-Joy, Charlie Day",7,15,ABD
-Meg 2: Çukur,Meg 2: The Trench,"Korku, Gerilim, Aksiyon",Ben Wheatley,08/04/2023,475593,47709568,"Belle Avery,Lorenzo di Bonaventura","Jason Statham, Sienna Guillory, Cliff Curtis",5,12,ABD
-Çok A?k,,"Komedi, Romantik",K?vanç Baruönü,10/27/2023,380433,40596415,"NuLook Production, Hack Creative","Hasan Can Kaya, Bü?ra Pekin, Bar?? Y?ld?z",5.7,8,Türkiye
-Kuru Otlar Üstüne,,Dram,Nuri Bilge Ceylan,09/29/2023,341900,38824556,NBC Film,"Merve Dizdar, Deniz Celilo?lu, Musab Ekici",7.9,24,Türkiye
-Transformers: Canavarlar?n Yükseli?i,Transformers: Rise of the Beasts,"Macera, Bilim-Kurgu, Aksiyon",Steven Caple Jr.,06/09/2023,322916,28152213,"Don Murphy, Tom DeSanto, Lorenzo di Bonaventura","Anthony Ramos, Luna Lauren Velez, Dominique Fishback",6,11,ABD
-Elemental: Do?an?n Güçleri,Elemental,"Macera, Komedi, Animasyon",Peter Sohn,06/16/2023,321243,28936529,Denise Ream,"Leah Lewis, Mamoudou Athie",7,25,ABD
-Nefes - Yer Eksi ?ki,,"Dram, Sava?, Aksiyon",Ozan Uzuno?lu,12/15/2023,507011,57207621,Orgino Medya,"Murat Y?ld?r?m, ?lker Aksum, ?ahin Kendirci",6.2,12,Türkiye
-Murat Gö?ebakan: Kalbim Yaral?,,"Dram, Biyografi",Ali Ayy?ld?z,12/08/2023,350790,38298627,"CNS Prodüksiyon, HM Productions","Burak Sevinç, Hande Soral, Tuvana Türkay",,12,Türkiye
-Galaksinin Koruyucular? 3,Guardians of the Galaxy Vol. 3,"Macera, Komedi, Aksiyon, 3 Boyutlu, IMAX",James Gunn,05/05/2023,304423,27912668,Kevin Feige,"Chris Pratt, Zoe Saldana, Dave Bautista",7.9,10,ABD
-Mission: Impossible - Ölümcül Hesapla?ma Birinci Bölüm,Mission: Impossible - Dead Reckoning Part One,"Macera, Aksiyon, IMAX",Christopher McQuarrie,07/14/2023,295068,32576254,"Tom Cruise, Christopher McQuarrie, Jake Myers","Tom Cruise, Hayley Atwell, Simon Pegg",7.7,11,ABD
-Elif ve Arkada?lar? Kapadokya,,Animasyon,?sa Do?mu?,04/28/2023,289052,20785427,Netco Prodüksiyon,"Gizem Aykul, Duygu Biçer, Günay Günay",6.1,31,Türkiye
-?bi: Do?u Ekspresi'nin Gizemi,,Animasyon,Sinan Ölmez,10/20/2023,265894,24993042,Koza Yay?n,"Elifcan Küçük, Alp Pazarl?, Hakan Bozbey",,15,Türkiye
-Nasreddin Hoca 2: Dinozorlar Ça??,,Animasyon,Naser Maratibavil,12/01/2023,268936,26203652,Siyah Mart?,"Ender Yi?it, Ekin Karaata, Ezel Kalkan",5.9,13,Türkiye
-Napolyon,Napoleon,"Dram, Tarihi, Biyografi, Aksiyon",Ridley Scott,11/24/2023,227734,31304123,"Ridley Scott, Kevin J. Walsh, Mark Huffam","Joaquin Phoenix, Vanessa Kirby, Ben Miles",6.4,9,ABD
-Kaptan Pengu ve Arkada?lar? 3: Buz Mandas? Efsanesi,,Animasyon,Ali Karaçam,07/07/2023,217234,18239786,Siyah Mart?,"Onur Akgülgil, Emin Yaraç, Ufuk Yüksel",6.1,21,Türkiye
-Freddy'nin Pizza Dükkan?nda Be? Gece,Five Nights at Freddy's,"Korku, Gerilim, Gizem",Emma Tammi,11/03/2023,215303,24535862,"Jason Blum, Scott Cawthon","Josh Hutcherson, Matthew Lillard, Elizabeth Lail",5.5,7,ABD
-Açl?k Oyunlar?: Ku?lar?n ve Y?lanlar?n ?ark?s?,The Hunger Games: The Ballad of Songbirds and Snakes,"Macera, Dram, Aksiyon",Francis Lawrence,11/17/2023,201948,25060911,"Nina Jacobson, Brad Simpson,Joe Drake","Tom Blyth, Rachel Zegler, Hunter Schafer",6.8,8,ABD
-Kral ?akir: Mikrop Avc?lar? Cumburlop,,Animasyon,"Haluk Can Dizdaro?lu, Mehmet Berk Tokay",03/31/2023,197875,13337445,Grafi 2000,"Atilla ?endil, Mustafa Oral, Didem Atl?han",4.8,11,Türkiye
-Mucize U?ur Böce?i ile Kara Kedi,"Miraculous - Le film, Ladybug & Cat Noir: The Movie","Macera, Animasyon, Aksiyon",Jeremy Zag,09/15/2023,196038,18831936,"Jeremy Zag, Aton Soumache, Papatya Shang","Damla Babacan, Erden Tunatekin",6.1,16,Fransa
-The Flash,The Flash,"Macera, Aksiyon, IMAX",Andy Muschietti,06/16/2023,181381,17236449,"Michael Disco, Barbara Muschietti","Ezra Miller, Sasha Calle, Ben Affleck",6.7,7,ABD
-Troller Hep Beraber,Trolls Band Together,Animasyon,"Walt Dohrn, Tim Heitz",11/10/2023,173345,19122366,Gina Shay," Anna Kendrick, Justin Timberlake, Camila Cabello",6,7,ABD
-Aybüke: Ö?retmen Oldum Ben,,"Dram, Biyografi",Murat Onbul,11/24/2023,226261,16470905,"Bee Yap?m, TRT Sinema","Nihayet ?ahin, Caner Kurtaran, Zeybep Kankonde",8.6,16,Türkiye
-Ninja Kaplumba?alar: Mutant Karga?as?,Teenage Mutant Ninja Turtles: Mutant Mayhem,"Macera, Animasyon, Aksiyon","Jeff Rowe, Kyler Spears",08/04/2023,169998,16199740,"Seth Rogen, Evan Goldberg, James Weaver","Micah Abbey, Shamon Brown Jr., Hannibal Buress",7.2,10,ABD
-Testere X,Saw X,"Korku, Gerilim, Gizem",Kevin Greutert,10/20/2023,168252,19052444,"Mark Burg, Oren Koules","Tobin Bell, Shawnee Smith, Synnøve Macody Lund",6.6,13,ABD
-Cehennem Melekleri 4,Expend4bles,"Macera, Aksiyon",Scott Waugh,09/22/2023,164065,16883559,"Jason Statham, Kevin King Templeton, Les Weldon","Sylvester Stallone, Jason Statham, 50 Cent",4.8,7,ABD
-Deh?etin Yüzü 2,The Nun 2,Korku,Michael Chaves,09/08/2023,162993,16999200,"James Wan, Peter Safran","Taissa Farmiga, Bonnie Aarons, Jonas Bloquet",5.6,7,ABD
-Paw Patrol: Süper Film,Paw Patrol: The Mighty Movie,"Macera, Komedi, Animasyon",Cal Brunker,09/29/2023,159446,16589649,"Jennifer Dodge, Laura Clunie, Toni Stevens","Finn Lee-Epp,Mckenna Grace,Christian Convery",6,6,ABD
-The Marvels,,"Macera, Fantastik, Aksiyon",Nia DaCosta,11/10/2023,157878,17938058,Kevin Feige,"Brie Larson, Teyonah Parris, Iman Vellani",5.6,5,ABD
-Wonka,,"Macera, Komedi, Aile",Paul King,12/15/2023,224416,31303927,"David Heyman,Luke Kelly,Alexandra Derbyshire","Timothée Chalamet, Olivia Colman, Rowan Atkinson",7.1,14,ABD
-Doru Macera Adas?,,Animasyon,Ark?n Aktaç,08/30/2023,139505,12380608,Anibera,"Dilek Gürel, Ünsal ?ahin, Özgür Varul",4.6,18,Türkiye
-Mannu Çanakkale'de,,Animasyon,?enol K?l?ç,04/14/2023,136094,8827598,Muhtelif ??ler,Umut Kemal Sevin,5.7,29,Türkiye
-Haile: Bir Aile Kâbusu,,Korku,Alper Mestçi,06/23/2023,128234,11106111,Aytaç Medya,"Ömer Gecü, ?pek Arkan, Seyran Aksoy",4.7,6,Türkiye
-Bulmaca Kulesi 2: Eve Dönü?,,Animasyon,Ahmet Erdal,07/28/2023,126772,10984448,Delightfull Animasyon,"Olcay Yusufo?lu, Elif Koç, Özgür Ünsal",5.2,23,Türkiye
-Hava Muhalefeti,,Komedi,Murat Kepez,04/14/2023,124978,9861791,BKM,"Ali Sunal, Do?a Rutkay, Ege Kökenli",5.6,7,Türkiye
-Kötü Ruh: Uyan??,Evil Dead Rise,"Korku, Fantastik",Lee Cronin,04/21/2023,124961,9990101,Robert Tapert,"Alyssa Sutherland, Lily Sullivan, Morgan Davies",6.5,8,ABD
-Ar? Maya 3: Alt?n Küre,Maya the Bee 3: The Golden Orb,"Macera, Animasyon",Noel Cleary,02/24/2023,122984,7623647,"Tracy Lenon, Benjamin Ey","Jan Delay, Sam Haft, Justine Clarke",5.2,12,"Almanya, Avustralya"
-Aquaman ve Kay?p Krall?k,Aquaman and the Lost Kingdom,"Macera, Fantastik, Aksiyon",James Wan,12/22/2023,218684,30077010,"James Wan, Peter Safran, Rob Cowan","Jason Momoa, Patrick Wilson, Yahya Abdul-Mateen II",5.6,9,ABD
-Dilek,Wish,"Macera, Komedi, Animasyon","Chris Buck, Fawn Veerasunthorn",12/01/2023,103188,12353856,"Peter Del Vecho, Juan Pablo Reyes Lancaster-Jones","Ariana DeBose, Chris Pine, Chris Pine",5.6,6,ABD
-Shazam! Tanr?lar?n O?fkesi,Shazam! Fury of the Gods,"Macera, Komedi, Aksiyon",David F. Sandberg,03/17/2023,92456,7410294,Peter Safran,"Zachary Levi, Helen Mirren, Rachel Zegler",5.9,5,ABD
-Hep Yek: Dü?ün,,Komedi,Bilal Kalyoncu,10/06/2023,102516,9445232,2506,"?nan Ula? Torun, Önder Aç?kba?, Ça?an Atakan Arslan",2.6,11,Türkiye
-Ruhlar Bölgesi: K?rm?z? Kap?,Insidious: The Red Door,"Korku, Gerilim",Patrick Wilson,07/07/2023,88140,8551596,"James Wan, Leigh Whannell, Jason Blum","Patrick Wilson, Rose Byrne, Ty Simpkins",5.5,9,ABD
-Indiana Jones ve Kader Kadran?,Indiana Jones and the Dial of Destiny,"Macera, Aksiyon, IMAX",James Mangold,06/30/2023,87499,9221858,"Simon Blake,Steven Spielberg,Kathleen Kennedy","Harrison Ford, Phoebe Waller-Bridge, Mads Mikkelsen",6.5,6,ABD
-Dolunay Katilleri,Killers of the Flower Moon,"Dram, Tarihi, Suç",Martin Scorsese,10/20/2023,81815,10859221,"Martin Scorsese, Daniel Lupi, Dan Friedkin","Leonardo DiCaprio, Robert De Niro, Lily Gladstone",7.6,11,ABD
-Adalet 3: Son,The Equalizer 3,"Gerilim, Suç, Aksiyon",Antoine Fuqua,09/01/2023,78334,8471265,"Denzel Washington, Antoine Fuqua, Michael Sloan","Denzel Washington, Dakota Fanning, Gaia Scodellaro",6.8,7,ABD
-Ma?a ile Koca Ay?: Sonsuz E?lence,,Animasyon,"Vasiko Bedoshvili, Artem Naumov",11/24/2023,70821,7478719,Film Medya,"Levent Kol, Ya?mur Sergen, Hakan Co?ar",2.3,12,Rusya
-Son Ak?am Yeme?i,,"Dram, Tarihi",Levent Onan,10/27/2023,66619,5881430,Cinegenna Pictures,"Engin ?enkan, Onur Tuna, Azra Aksu",6.4,9,Türkiye
-Zindanlar ve Ejderhalar: H?rs?zlar Aras?nda Onur,Dungeons & Dragons: Honor Among Thieves,"Macera, Fantastik","John Francis Daley, Jonathan Goldstein",04/07/2023,65235,5641114,"Brian Goldner, Jeremy Latcham, Nick Meyer","Chris Pine, Michelle Rodriguez, Rege-Jean Page",7.2,5,ABD
-"Haile 2: Var m?, Yok mu?!",,Korku,Alper Mestçi,12/08/2023,65520,7433377,Aytaç Medya,"Gül?ah Ayd?n, Betigül Ceylan, Ömer Gecü",5.1,4,Türkiye
-Ö?retmen,,Komedi,Bilal Kalyoncu,10/20/2023,73199,4753537,"2506, AKC Medya, TRT Sinema","Önder Aç?kba?, ?nan Ula? Torun, Bilal Hanc?",2.3,21,Türkiye
-Exorcist: ?nançl?,The Exorcist: Believer,Korku,David Gordon Green,10/06/2023,61604,7188416,"Jason Blum, James G. Robinson, David C. Robinson","Leslie Odom Jr., Ellen Burstyn, Jennifer Nettles",4.8,4,ABD
-Blue Beetle,,"Macera, Bilim-Kurgu, Aksiyon",Angel Manuel Soto,08/18/2023,57985,6009517,"Peter Safran, John Rickard, Zev Foreman","Xolo Mariduena, Bruna Marquezine, Damián Alcázar",6,5,"ABD, Meksika"
-Küçük Deniz K?z?,The Little Mermaid,"Macera, Aile",Rob Marshall,05/26/2023,57310,5184341,"Rob Marshall, Lin-Manuel Miranda, John DeLuca","Halle Bailey, Jonah Hauer-King, Melissa McCarthy",7.2,8,ABD
-Gizemli Ada Mençuna,,"Macera, Komedi, Aile",Bora Onur,04/07/2023,56571,4056109,"GNY Yap?m, Teknovia ?leti?im, Bahane Yap?m","?ahin Irmak, Masal Günay, Öykü Günay",5.3,10,Türkiye
-Genç Deniz Canavar? Ruby,"Ruby Gillman, Teenage Kraken","Komedi, Animasyon, Aksiyon","Kirk DeMicco, Faryn Pearl",06/30/2023,54102,4579563,Kelly Cooney,"Lana Condor, Annie Murphy, Jane Fonda",5.7,8,ABD
-Creed III: Efsane Devam Ediyor,Creed III,"Macera, Dram, Spor",Michael B. Jordan,03/03/2023,52421,4555536,"Irwin Winkler, Charles Winkler, William Chartoff","Michael B. Jordan, Tessa Thompson, Jonathan Majors",6.7,4,ABD
-Karlar Kral? Norm 3: Aile Tatili,Norm of the North: Family Vacation,Animasyon,Anthony Bell,03/17/2023,51270,3748155,"Andrew Tight, ??? ???","Lisa Durupt, Jonathan Holmes, Brian Drummond",3,12,ABD
-Konu? Benimle,Talk to Me,"Korku, Gerilim","Danny Philippou, Michael Philippou",09/01/2023,50352,4963713,"Kristina Ceyton, Samantha Jennings","Sophie Wilde, Alexandra Jensen, Joe Bird",7.1,10,Avustralya
-Hayat,,Dram,Zeki Demirkubuz,12/15/2023,70036,8774952,Mavi Film,"Miray Daner, Burak Dakak, Cem Davran",7.4,14,Türkiye
-?eytan?n Dü?man?,The Pope's Exorcist,"Korku, Gerilim",Julius Avery,05/05/2023,49351,3954163,"Doug Belgrad, Michael Patrick Kaczmarek, Jeff Katz","Russell Crowe, Ralph Ineson, Franco Nero",6.1,8,ABD
-Çocuk ve Bal?kç?l,"Kimitachi wa dô ikiru ka, The Boy and the Heron","Macera, Animasyon, Dram",Hayao Miyazaki,10/27/2023,59748,6513691,"Gor? Miyazaki, Toshio Suzuki, Koji Hoshino","Soma Santoki, Masaki Suda, Kô Shibasaki",7.6,21,Japonya
-Mavka: Orman?n ?ark?s?,"Mavka, Mavka: The Forest Song",Animasyon,"Oleksandra Ruban, Oleh Malamuzh, Yevheniy Yermak",10/27/2023,48343,4926077,"Egor Olesov, Anna Eliseeva, Iryna Kostiuk","Nataliya Denisenko, Artem Pivovarov, Elena Kravets",6.6,16,Ukrayna
-Alem-i Cin 4,,Korku,Burak Çelik,04/21/2023,45351,3492230,BMS Film,"Merve Özel, Onur Aziz Özdemir, Levent Çak?r",2.8,4,Türkiye
-Meksika Açmaz?,,Komedi,Alper Mestçi,11/17/2023,43725,5113083,"Muhte?em Film, TME Films","Mesut Süre, Fazl? Polat, Anlatanadam",4,7.5,Türkiye
-65,,"Gerilim, Bilim-Kurgu","Bryan Woods, Scott Beck",03/10/2023,43546,3402162,"Scott Beck, Bryan Woods, Sam Raimi","Adam Driver, Ariana Greenblatt, Chloe Coleman",5.4,6,ABD
-Yarat?c?,The Creator,"Bilim-Kurgu, Dram, Romantik",Gareth Edwards,09/29/2023,41795,4973284,"Gareth Edwards, Arnon Milchan, Kiri Hart","John David Washington, Madeleine Yuna Voyles, Gemma Chan",6.8,4,ABD
-Gran Turismo,,"Macera, Dram, Spor",Neill Blomkamp,08/25/2023,41633,4706632,"Dana Brunetti, Carter Swan, Doug Belgrad","Archie Madekwe, David Harbour, Orlando Bloom",7.2,8,ABD
-Süper Aile,"Helt super, Just Super","Animasyon, Aile",Rasmus A. Sivertsen,05/19/2023,40119,3195772,"Åshild Ariane Ramborg, Stian Tveiten","Hennika Huuse, Todd Bishop Monrad Vistven, Johannes Kjærnes",5.4,8,Norveç
-Kahraman Kuyruklar,"Pattie et la colère de Poséidon, Epic Tails","Macera, Komedi, Animasyon","David Alaux, Eric Tosti;, Jean-François Tosti",03/17/2023,37734,2792077,Jean-François Tosti,"Kaycie Chase, Christophe Lemoine, Emmanuel Curtil",5.8,11,Fransa
-Venedik'te Cinayet,A Haunting In Venice,"Dram, Suç, Gizem",Kenneth Branagh,09/15/2023,37159,4268848,"Kenneth Branagh, Ridley Scott, Simon Kinberg","Kenneth Branagh, Michelle Yeoh, Jamie Dornan",6.5,8,ABD
-Bursa Bülbülü,,"Komedi, Müzik",Hakan Algül,10/06/2023,36861,3098635,BKM,"Ata Demirer, Cem Gelino?lu, Özge Özacar",6.8,6,Türkiye
-Üçlü Pürüz,,Komedi,Vedat Uyar,04/21/2023,34689,2549198,"Aytaç Medya, Selkare Digital Post","Okan Cabalar, Emrah Kaman, Korhan Herduran",4.7,7,Türkiye
-"Zübeyde, Analar ve O?ullar",,"Dram, Tarihi, Biyografi",Cenk Yaz,10/13/2023,33984,3032457,ICNN Yap?m,"Asl?han Güner, Alican Yücesoy, Emre K?nay",5.8,8,Türkiye
-Hüddam 3: Lamia,,Korku,Utku Uçar,06/16/2023,33763,2742862,"Hayal Sanat, Vagon Film","Hakan Erkuran, Ayhan Y?lmaz, Cemal Naci Bakiler",5.3,14,Türkiye
-Hayata Röve?ata Çeken Adam,A Man Called Otto,Dram,Marc Forster,03/03/2023,33368,2858752,"Tom Hanks, Rita Wilson, Fredrik Wikström","Tom Hanks, Rachel Keller, Manuel Garcia-Rulfo",7.5,14,ABD
-Kara Cuma,Thanksgiving,"Korku, Gerilim, Gizem",Eli Roth,12/01/2023,31575,3900013,"Eli Roth, Jeff Rendell, Roger Birnbaum","Milo Manheim, Gina Gershon, Patrick Dempsey",6.3,4,ABD
-Zir-i Cin 2,,Korku,Burak Küçük,11/03/2023,31036,3077713,HM Productions,"Ekrem Kayhan, Feyza Ayan, Tahsin Macit",4.8,4,Türkiye
-Kare Tak?m?: Gizemli Ada,,Animasyon,Orhan Bal,09/29/2023,30835,2736648,Dü?lerevi Çizgi Film Atölyesi,"Elif Erdal, Ça??l Özdemir , Sava? Pat",3.2,13,Türkiye
-Hypnotic: Zihin Av?,Hypnotic,"Gerilim, Aksiyon, Gizem",Robert Rodriguez,06/02/2023,29793,2854615,"Robert Rodriguez, Racer Rodríguez, Mark Gill","Ben Affleck, Alice Braga, JD Pardo",5.5,4,ABD
-80 Günde Devri Alem,"Le tour du monde en 80 jours, Around the World in 80 Days",Animasyon,Samuel Tourneux,06/09/2023,29108,2257093,"Mike Todd, Kevin McClory, William Cameron Menzies","Jackie Chan, Steve Coogan, Cécile de France",4.7,5,"Belçika, Fransa"
-Maske: Nezaketle Tebessüm,,Gizem,Berker Berki,06/09/2023,27439,1222998,Satre Film,"Kaan Turgut, Nilay Deniz, Mert Turak",7.7,4,Türkiye
-Sa? Salim 3: Ölü ya da Diri,,Komedi,Ersoy Güler,12/22/2023,32847,3711358,"PRT Films, Komedram","Toygan Avano?lu, Hüseyin Avni Danyal, Pelin Orhuner",7.9,4,Türkiye
-The Boogeyman,,"Korku, Gerilim, Gizem",Rob Savage,06/02/2023,23174,2060423,"Dan Cohen (II), Dan Levine, Shawn Levy","Chris Messina, Sophie Thatcher, David Dastmalchian",5.9,4,ABD
-Taylor Swift: The Eras Tour,,"Konser, Müzik",Sam Wrench,11/03/2023,22998,5057785,"Taylor Swift, Sam Wrench",Taylor Swift,8.1,3,ABD
-Ammar 4: Cin Kavmi,,Korku,U?ur Kaplan,09/22/2023,22433,2133496,"BMS Film, Film Fabrikas?","Muhammed Genç, Burcu Orhan, Sanaz Nazar?",2.7,3,Türkiye
-Cin Sureti,,"Korku, Gerilim",Burak Küçük,02/24/2023,21215,1405686,Bircan Film,"Burak Küçük, Ogan ?enyolcu, Mustafa Kavalc?",4.8,2,Türkiye
-Rubinin Ailesi,"Bait El Ruby, El Ruby House","Komedi, Dram",Peter Mimi,08/04/2023,20888,2244186,"Tamer Morsi, Ahmed Badawy","Karim Abdel Aziz, Kareem Mahmoud Abdel Aziz, Nour",6.7,7,M?s?r
-K?rm?z? Ba?l?kl? K?z ve Bizim Kahramanlar,,Animasyon,Erhan Yi?it,02/17/2023,20690,1340027,Cinephone,"Emma Stone, Mark Ruffalo, Willem Dafoe",4.2,5,Türkiye
-Ecinni 4: Ecel,,Korku,Mehmet Sa?lam,03/31/2023,20386,1411185,Sa?lam Film,"Merve Ate?, Fatih Pa?al?, Yasemin Kurttekin",4.7,11,Türkiye
-Asteroit ?ehir,Asteroid City,"Komedi, Romantik",Wes Anderson,06/16/2023,20160,2039066,"Roman Coppola, Henning Molfenter, Carl Woebcken","Tom Hanks, Scarlett Johansson, Tilda Swinton",6.5,9,ABD
-Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,,"Macera, Animasyon, Aksiyon",Haruo Sotozaki,03/24/2023,18757,1561240,"Y?ma Takahashi, Akifumi Fujio","Toshio Furukawa, Natsuki Hanae, Kana Hanazawa",7.5,3,Japonya
-Kahraman Yar??ç?lar,Rally Road Racers,"Komedi, Animasyon, Aile",Ross Venokur,08/18/2023,18384,1773039,"John H. Williams, Deepak Nayar, Nik Bower","Scott Chambers (IV), Ryan Oliva, Tallulah Evans",5.2,8,ABD
-Hayaller Ülkesi: Gizemli Macera,The Wishmas Tree,Animasyon,Ricard Cussó,03/10/2023,18148,1228819,"Kristen Souvlis, Nadine Bates","Miranda Tapsell, Miranda Tapsell, Ross Noble",4.8,7,Avustralya
-Zuhur: Cinn-i Ayin,,Korku,Mert Uzunmehmet,10/13/2023,17511,1599196,Apollon Film,"Erol Sertel, Larissa Lara Türközer, Sinem Yalç?n",2.5,5,Türkiye
-Perili Kö?k,Haunted Mansion,"Komedi, Aile, Dram",Justin Simien,08/11/2023,17264,1597547,"Jonathan Eirich, Dan Lin","Jamie Lee Curtis, Owen Wilson, Rosario Dawson",6,3,ABD
-Orman Çetesi: Dünya Turu,"Les As de la Jungle 2, The Jungle Bunch: World Tour",Animasyon,"Laurent Bru, Yannick Moulin, Benoît Somville",12/22/2023,31723,3464936,Jean-François Tosti,"Philippe Bozo, Laurent Morteau, Pascal Casanova",5.7,14,Fransa
-Yumurtalar Firarda: Afrika Maceras?,"Un rescate de huevitos, Little Eggs: An African Rescue","Macera, Komedi, Animasyon","Rodolfo Riva Palacio Alatriste, Gabriel Riva Palacio Alatriste",08/11/2023,17155,1618071,"Gabriel Riva Palacio Alatriste, Rodolfo Riva Palacio Alatriste, Ignacio Martínez Casares","Sébastien Hebrant, Mayra Adela Rojas, Maia Baran",5.1,5,Meksika
-Hayalimdeki Dü?ün,Shotgun Wedding,"Komedi, Aksiyon, Romantik",Jason Moore,12/30/2022,17084,1327834,"David Hoberman, Todd Lieberman, Jennifer Lopez","Jennifer Lopez, Josh Duhamel, Lenny Kravitz",5.5,2,ABD
-Karanl?k Gece,,"Gerilim, Dram, Suç",Özcan Alper,04/28/2023,16876,1375584,"Nar Film, BKM, Bayku? Yap?m","Berkay Ate?, Sibel Kekilli, Cem Yi?it Üzümo?lu",6.9,15,Türkiye
-Cinnas,,Korku,Elvin Abdulla,07/14/2023,16557,1308012,Elvin Abdulla,"Hikmet Rehimov, Pervin Ab?yeva, Zemfira Abdulsamedova",6.2,7,Azerbeycan
-Bak ?u Leyle?e 2: Zümrüt Ta??n?n Pe?inde,Richard the Stork and the Mystery of the Great Jewel,"Macera, Animasyon, Aile","Mette Tange, Benjamin Quabeck",10/13/2023,16875,1683010,"Kristine Knudsen, Maria Ekerhovd, David Claikens","Jay Myers, Jonathan Failla, Jeffrey Hylton",5.1,7,"Almanya, Belçika, Norveç"
-Efsunlu 3: Muska,,"Korku, Gerilim",U?ur Kaplan,08/25/2023,16541,1530515,Cinephone,"Eylül Ezgi Y?lmaz, Serhat Üstünda?, Berke Mehmet Korkmaz",4.6,4,Türkiye
-Mia ve Ben: Centopia'n?n Kahraman?,Mia and Me: The Hero of Centopia,"Macera, Animasyon, Aile",Adam Gunn,06/09/2023,15728,1285219,"Thorsten Wegener, Tracy Lenon","Margot Nuccetelli, François Goeske, Santiago Ziesmer",6.1,6,"Almanya, Avustralya, Belçika, Hindistan"
-Kaptan Porsuk Kay?p Hazinenin Pe?inde,"Knutsen & Ludvigsen 2 - Det store dyret, Two Buddies and a Badger: The Great Big Beast","Komedi, Animasyon","Rune Spaans, Gunhild Enger",03/03/2023,15611,1093612,"Ingunn Sundelin, Eric Vogel, Olav Mellgren","Levent Kol, Ya?mur Sergen, Hakan Co?ar",5.8,8,Norveç
-Suzume,Suzume no tojimari,"Macera, Animasyon, Aksiyon",Makoto Shinkai,05/26/2023,15555,1456798,"K?ichir? It?, Genki Kawamura, Wakana Okamura","Scott Chambers (IV), Ryan Oliva, Tallulah Evans",7.6,9,Japonya
-Büyü de Gel,No Hard Feelings,Komedi,Gene Stupnitsky,06/23/2023,14885,1557045,"Alex Saks, Naomi Odenkirk, Marc Provissiero","Jennifer Lawrence, Andrew Barth Feldman, Matthew Broderick",6.4,4,ABD
-A?k?n Saati 19:03,,Komedi,Hasan Gümet,05/05/2023,14462,1170679,Sowa Yap?m,"Berat Efe Parlar, Feride Hilal Ak?n, Ali Sürmeli",6,3,Türkiye
-Vatikan'?n ?ifresi: Bir Temel Maceras?,,Komedi,Okan Ege Ergüven,11/10/2023,14281,1470868,Eser Yap?m,"Re?at Hac?ahmeto?lu, Edanur Hanc?, Ömür Arpac?",3.4,5,Türkiye
-Cenazemize Ho? Geldiniz,,Komedi,Neslihan Ye?ilyurt,12/22/2023,14586,1736369,"Medyap?m, Ay Yap?m","Gonca Vuslateri, Erkan Can, ?smail Ege ?a?maz",5.5,3,Türkiye
-Güven Bana,,"Komedi, Aksiyon",Selçuk Aydemir,10/13/2023,13703,1375211,Aytaç Medya,"Cihangir Ceyhan, Ufuk Bayraktar, Okan Cabalar",4.2,3,Türkiye
-Öldüren Oyun,The Friendship Game,"Korku, Gerilim, Bilim-Kurgu",Scooter Corkle,03/31/2023,13688,1016048,Daniel Bekerman,"Peyton List, Brendan Meyer, Kelcey Mawema",3.2,4,Kanada
-Elleville Elfrid,Ella Bella Bingo,Animasyon,"Atle Solberg Blakseth, Frank Mosvold",05/05/2023,13617,1135943,"Frank Mosvold, Atle S. Blakseth","Johannes Joner, Gard B. Eidsvold,Hege Schøyen",4.8,6,Norveç
-Sur'da Devran,,Komedi,Ha?im Aydemir,10/13/2023,13614,1187583,La Film Prodüksiyon,"Mustafa Yalç?n, Ahmet Baran Bozbo?a, Sava? Damla",7,5,Türkiye
-Ölümüne A?k,,Komedi,Okan Ege Ergüven,09/01/2023,13534,1158324,Eser Yap?m,"Murat Akkoyunlu, Fulya Zenginer, Ayten Uncuo?lu",2.4,3,Türkiye
-?blis Karanl???n Sahibi 2,,Korku,Berk Aygül,06/09/2023,13383,1086009,Pratik Film,"Sava? Özkul, Öznur Kütük, Gizem Akgün",4.2,4,Türkiye
-Bir Dü?ü?ün Anatomisi,"Anatomie d'une chute, Anatomy of a Fall","Gerilim, Dram, Suç",Justine Triet,11/03/2023,28304,3470082,"Marie-Ange Luciani, David Thion","Sandra Hüller, Samuel Theis, Swann Arlaud",7.7,21,Fransa
-Dabbetü'l-Arz: K?yamet,,Korku,Gökhan Ar?,09/01/2023,13165,1236482,Matine Film,"Bertan Dirikolu, Taner ?ahin, Mehmet Sabri Arafato?lu",3.8,3,Türkiye
-Y?ld?z Tozu,,"Aile, Dram",Ahmet Sönmez,09/22/2023,13285,924018,"Sinehane, 24 Kare Film","Süleyman Biçen, Berat Ça?an, Toprak Can Ad?güzel",7.6,11,Türkiye
-Küçük Allen ve Galaksi Yolcusu,"Lille Allan - den menneskelige antenne, The Little Alien","Macera, Animasyon, Aile",Amalie Næsby Fick,09/08/2023,12940,1294265,"Trine Heidegaard, Thomas Heinesen","Emma Stone, Mark Ruffalo, Willem Dafoe",5.5,3,Danimarka
-Araf 6: Ölüm,,Korku,"Tar?k Karakulak, Biray Dalk?ran",05/19/2023,12646,951603,"RN Yap?m, DFGS","Gökhan Ery?lmaz, Esenay K?l?ç, Ekin ?lkim",2.8,3,Türkiye
-Semur 4: Mah?er,,Korku,Hakk? Kaplan,07/14/2023,12546,1156509,BMS Film,"F?rat Çölo?lu, Merve Özel, Alara Kuru",2.7,3,Türkiye
-Prenses ve Dracula,"Koshchey. Pokhititel nevest, How to Save the Immortal",Animasyon,Roman Artemyev,07/21/2023,12319,1086493,"Vadim Sotskov, Sergey Zernov, Sergey Selyanov","Scott Chambers (IV), Ryan Oliva, Tallulah Evans",5.2,3,"Macaristan, Rusya"
-Her ?ey A?k ?çin,,Komedi,Ahmet Kapucu,10/20/2023,12304,1296083,"Sky Film Yap?m, 2518 Film Yap?m","Safa Sar?, Zafer Algöz, Gizem Sevim",4.3,2,Türkiye
-Cin Büyüsü,,Korku,Batuhan Çelik,03/17/2023,12220,857745,Karavan Film,"Gizem Ayten, Ahmet Eymen Akyüz, Bahar Cemre Sar?kaya",4.1,6,Türkiye
-Örümcek A??,Cobweb,"Korku, Gerilim",Samuel Bodin,07/28/2023,12200,1194671,"Seth Rogen, Roy Lee, Evan Goldberg","Lizzy Caplan, Antony Starr, Cleopatra Coleman",6,2,ABD
-Conjuring: ?eytan Ayini,Conjuring: The Beyond,"Korku, Dram, Gizem",Calvin Morie McCarthy,05/26/2023,12155,1054014,"Chad Buffett , Lea Buffett","Victoria Grace Borrello, Steve Larkin, Jon Meggison",2.3,3,ABD
-Ehl-i Cin: ?ntikam,,Korku,Batuhan Çelik,08/11/2023,12068,1052092,EN Sinema,"Beyza Nur Önispir, Kerem Can Karao?lu, Merve Erçel",4.6,6,Türkiye
-Ç?lg?n Dostum Finnik,Finnick,"Macera, Animasyon",Denis Chernov,07/14/2023,12614,1138143,Elena Chirkova,"Aleksandr Gudkov, Mikhail Khrustalyov",5.8,13,Rusya
-Büyük Macera: Hazine Pe?inde,,Aile,Ahmet Toklu,04/28/2023,11600,916805,No:23 Prodüksiyon,"Emir Ali Do?rul, Muharrem Türkseven, Güzin Usta",5.5,4,Türkiye
-Kediler Müzede,"Koty Ermitazha, Cats in the Museum","Macera, Animasyon, Aile",Vasiliy Rovenskiy,12/15/2023,12767,1528934,"Vasiliy Rovenskiy, Roman Borisevich, Maxim Rogalsky","Anton Eldarov, Polina Gagarina, Aleksandr Gavrilin",4.7,8,Rusya
-Karabasan,"Marerittet, Nightmare","Korku, Gerilim",Kjersti Helen Rasmussen,05/12/2023,11491,910932,"Einar Loftesnes, John Einar Hagen","Eili Harboe, Herman Tømmeraas, Dennis Storhøi",5.1,8,Norveç
-After: Her ?ey,After: Everything,"Dram, Romantik",Castille Landon,09/15/2023,11326,1093869,"Hero Fiennes Tiffin, Brian Pitt, Courtney Solomon","Josephine Langford, Hero Fiennes Tiffin, Stephen Moyer",4.7,4,ABD
-Kar ve Ay?,,Dram,Selcen Ergun,09/08/2023,11231,1136843,Nefes Films,"Merve Dizdar, Sayg?n Soysal, Erkan Bekta?",6.6,8,Türkiye
-Renfield,,"Korku, Komedi",Chris McKay,04/14/2023,11154,990197,"Chris McKay, Robert Kirkman, Samantha Nisenboim","Nicholas Hoult, Nicolas Cage, Awkwafina",6.4,3,ABD
-Uzay Köpekleri,Space Pups,"Macera, Bilim-Kurgu, Aile",Jason Murphy,08/25/2023,11063,1033137,"Mark Boot, Kenny Beaumont, Eli Lipnik","Myron Donley, Riley Madison Fuller, Elijah Green",5,3,ABD
-Drakula: Son Yolculuk,The Last Voyage of the Demeter,"Korku, Gerilim",André Øvredal,08/25/2023,11048,1155051,"Brad Fischer, Mike Medavoy, Arnold Messer","Corey Hawkins, David Dastmalchian, Aisling Franciosi",6.1,3,ABD
-Tatl? Bela,Beautiful Disaster,"Komedi, Dram, Romantik",Roger Kumble,05/05/2023,11021,1005934,"Roger Kumble, Brian Pitt, Nicolas Chartier","Virginia Gardner, Autumn Reeser, Dylan Sprouse",5.3,6,ABD
-Ba?ka Bir Hayatta,Past Lives,"Dram, Romantik",Celine Song,12/08/2023,11236,1567845,"David Hinojosa, Christine Vachon, Pamela Koffler","Greta Lee, Teo Yoo, John Magaro",7.9,8,"ABD, Güney Kore"
-Kad?nlara Mahsus,,"Dram, Romantik",Serdar Akar,12/22/2023,10411,1339546,Limit Yap?m,"Melisa Asl? Pamuk, Ceyda Düvenci, Asl? Tando?an",8.5,3,Türkiye
-Kalp Esteti?i,,"Komedi, Romantik",Haydar I??k,09/29/2023,9683,915694,CMP Prodüksiyon,"Evliya Aykan, Ersin Korkut, Müge Boz",7.6,3,Türkiye
-B?c?r?klar: Yeni Yuvam?z,"Die Mucklas... und wie sie zu Pettersson und Findus kamen, The Muckles: The Quest for a New Home","Macera, Animasyon, Aile","Ali Samadi Ahadi, Markus Dietrich",08/11/2023,9433,815929,SOLA MEDIA GMBH,"Uwe Ochsenknecht, ChrisTine Urspruch, André Jung",4.2,14,Almanya
-Ölümcül Çarp??ma,"Hidden Strike, Snafu","Gerilim, Aksiyon",Scott Waugh,07/07/2023,9018,838833,"Jackie Chan, Hans Canosa, Esmond Ren","Jackie Chan, John Cena, Pilou Asbæk",5.3,3,"ABD, Çin"
-Lanetli Kan,Blood,"Korku, Gerilim",Brad Anderson,05/12/2023,8715,744768,"Michelle Monaghan, Skeet Ulrich, Finlay Wojtak-Hissong","Michelle Monaghan, Skeet Ulrich, Finlay Wojtak-Hissong",5.5,4,ABD
-Ya?amak,Living,Dram,Oliver Hermanus,03/03/2023,8707,647409,"Elizabeth Karlsen , Stephen Woolley","Bill Nighy, Aimee Lou Wood, Alex Sharp",7.2,15,"Birle?ik Krall?k, ?sveç, Japonya"
-Ne?eli Çiftlik: Tren Kalk?yor!,A Mystery on the Cattle Hill Express,Animasyon,Will Ashurst,05/12/2023,8673,658857,"Qvisten Animation, In The Air"," Scott Chambers (IV), Ryan Oliva, Tallulah Evans",5.2,7,Norveç
-Hayalet Suikastçi,Assassin,"Gerilim, Suç, Aksiyon",Jesse Atlas,04/07/2023,8571,700985,"Alexander Eckert , Jeff Elliott , Najeeb Khuda","Bruce Willis, Dominic Purcell, Nomzamo Mbatha",3.2,3,ABD
-Lilith Cinleri,,Korku,Özlem Ye?ilyurt,07/28/2023,8486,764732,Mert Yap?m Medya,"P?nar Demiral, Berkant Aksoy, Furkan Avc?",3.1,2,Türkiye
-Haris,,Korku,Kadir Genç,03/17/2023,8335,563964,Apah Yap?m,"Mesut Gediko?lu, Hasret Y?lmaz, Sinem Can Aksu",3,3,Türkiye
-Ne Olacak Halim?,,"Komedi, Aile, Romantik",Semra Dündar,03/10/2023,8188,568246,Karata? Film Yap?m,"Emre Altu?, Alg? Eke, Lemi Filozof",4.9,4,Türkiye
-Zina,,Korku,Anastasiya Budakva,11/24/2023,7823,868557,Mert Yap?m Medya,"Sema Bolat, Ya?mur Tazegül, Tu?ba Ayd?n",2.8,4,Türkiye
-Pinkfong: Baby Shark,Pinkfong Sing-Along Movie 2: Wonderstar Concert,"Animasyon, Müzik",Sukyoung Kim,03/10/2023,7610,542430,THE P?NKFONG COMPANY INC,"Lexi Fontaine, Larissa Gallagher, Kyle McCarley",4.6,9,Güney Kore
-Pathaan,,"Gerilim, Dram, Aksiyon",Siddharth Anand,03/03/2023,7571,575395,"Aditya Chopra, Maxim Ajjawi","Shah Rukh Khan, Deepika Padukone, John Abraham",5.8,2,Hindistan
-Lamborghini: Efsanenin Arkas?ndaki Adam,Lamborghini: The Man Behind the Legend,"Dram, Biyografi, Spor",Bobby Moresco,02/24/2023,7401,717178,"Andrea Iervolino, Monika Bacardi, Allen Dam","Frank Grillo, Mira Sorvino, Gabriel Byrne",5.4,2,"ABD, ?talya"
-Oregon,,"Komedi, Dram",Kerem Ayan,04/28/2023,7323,599894,NuLook Production,"Asl? ?nand?k, Serkan Çayoglu, Ferit Aktu?",4.6,4,Türkiye
-Kay?p,Missing,"Gerilim, Dram","Will Merrick, Nicholas D. Johnson",03/31/2023,7319,598714,"Aneesh Chaganty, Sev Ohanian, Timur Bekmambetov","Storm Reid, Nia Long, Daniel Henney",7.1,3,ABD
-Z?p?r Dedektif ve Alt?n Ar? Kovan?,"Chink: Khostatiy detektiv, Detective Chirp and the Golden Beehive","Macera, Animasyon, Aile",Grigoriy Vozhakin,07/21/2023,7055,624418,"Yuliana Slashcheva, Sergey Demchev","Ivan Chaban, Evelina Blyodans, Miroslava Karpovich",5.4,6,Rusya
-Ferrari,,"Dram, Tarihi, Biyografi",Michael Mann,12/22/2023,7838,1319410,"Mohammed Al Turki, Vahan Yepremyan","Adam Driver, Penélope Cruz, Shailene Woodley",6.5,3,ABD
-Kral Fil,The Elephant King,"Macera, Komedi, Animasyon",Hadi Mohammadian,12/15/2023,6862,757710,MEEM PRODUCTION S.A.R.L.,"Hamed Azizi, Georges Khabbaz, Bahman Hashemi",4.7,4,"?ran, Lübnan, Malezya"
-Mühr-ü Musallat 2: Yasak Dü?ün,,Koku,Metin Kuru,07/21/2023,6736,580549,"Mutluluk Fabrikas?, Mag Film","Merve Kurç, Nevzat Can Rüzgar, Ufuk Kaplan",4.2,3,Türkiye
-Simülasyon,Simulant,"Gerilim, Bilim-Kurgu",April Mullen,04/07/2023,6640,630354,"Tim Doiron,  James van der Woerd","Robbie Amell, Jordana Brewster, Simu Liu",5.2,2,Kanada
-"Masal Zaman? 2 ""Sihirli Kap?""",,"Macera, Aile",Kubilay Güleço?lu,10/06/2023,6612,705381,Two Yap?m,"Lavinya Ünlüer, Ata Berk Mutlu, Özkan Sa??n",3.3,3,Türkiye
-Roza,,Dram,Mustafa Kotan,10/06/2023,6428,615180,Akiz Yap?m,"Belçim Bilgin, Burak Sevinç, Fikret Ku?kan",3.4,4,Türkiye
-Benim Babam Bir Kahraman,,"Aile, Dram",Orçun Benli,06/16/2023,6364,531616,Cocoon Medya,"Ufuk Bayraktar, Mahir ?pek, Selim Erdo?an",7.2,2,Türkiye
-Havas ?lm-i Cin,,"Korku, Gerilim",Hasan Gökalp,08/18/2023,6205,595658,"?gamedya Yay?nc?l?k, FK Productions","F?rat Kahraman, Elif Çapk?n, Seda Keskol",5.4,2,Türkiye
-Resif: Kanl? Takip,The Reef: Stalked,"Korku, Gerilim",Andrew Traucki,07/14/2023,6178,581140,"Jack Christian, Neal Kingston, Michael Robertson","Teressa Liane, Ann Truong, Kate Lister",4.1,4,"ABD, Avustralya"
-Sessiz Kabus,Sound of Silence,Korku,"Alessandro Antonaci, Daniel Lascar, Stefano Mandalà",08/11/2023,6134,592355,"Alessandro Antonaci , Daniel Lasca","Lucia Caporaso, Chiara Casolari, Micol Damilano",4,3,?talya
-Hadi Hay?rl?s?: Istakoz'un Haritas?,,Komedi,?iar Zaim,04/14/2023,6114,352841,Willer Film,"Cengiz Küçükayvaz, Hakan Bilgin, Bülent Çolak",7,4,Türkiye
-Eyvah Babam,About My Father,Komedi,Laura Terruso,06/02/2023,6090,616625,"Andrew Miano , Paul Weitz , Chris Weitz ","Robert De Niro, Kim Cattrall, Leslie Bibb",5.7,3,ABD
-Kocam? Kim Öldürür?,,Komedi,Bilal Kalyoncu,09/22/2023,5753,536156,2506,"Aleyna Solaker, Burak Sat?bol, Hayrettin",3.1,2,Türkiye
-Cin Hikayeleri Kay?p Bebek,,Korku,Kemal Danac?,05/26/2023,5683,432449,Mil Yap?m,"Erol Sertel, Zeynep Er, Efekan Güner",4.7,4,Türkiye
-Batakl?k,Quicksand,Gerilim,Andres Beltran,08/18/2023,5648,526548,"Sean Patrick Burke, Jason Cherubini, Nicolas Reyes","Carolina Gaitan, Allan Hawco, Sebastian Eslava",4.3,4,Kolombiya
-Tebessüm,,"Komedi, Dram","Sezgin Cengiz, ?iyar Gedik",06/23/2023,5621,453553,"Su Yap?m, Avc? Film Yap?m","Onur Buldu, Adem Tosun, Seda Türkmen",5.4,14,Türkiye
-Tek Yürek ?malat-? Harbiye,,"Tarihi, Spor",Serdar Çetinkaya,03/10/2023,5556,395746,"Clean B. Film, Serçe Yap?m, AKS Medya","urgay Tanülkü, ?nanç Konukçu, Sitare Akba?",7.9,4,Türkiye
-Orman Çocu?u: Güç Uyan?yor,The Awakening of the Mini World,Animasyon,Xuhui Xing,08/04/2023,5330,484548,"Mini Creation Technology, Shenzhen Xingtiao Cultural and Creative",Tom CoetzeeJonah DollerySophie Kirsch,5.6,2,Çin
-?eytan?n Elçileri,,Korku,Özlem Ye?ilyurt,09/08/2023,5245,485630,Mert Yap?m Medya,"Atilla Karahan, Cemre Yalç?n, Ya?mur Yenice",2.6,2,Türkiye
-Afacanlar ?? Ba??nda,Two Little Toddlers: An Unforgettable Day,Animasyon,Wip Vernooij,06/23/2023,5244,453551,"Bruno Felix, Denis Wigman, Marijn Wigman","Manou Jue Cardoso, Ronnie Flex, Chantal Janzen",6.7,3,Hollanda
-Çaykovski'nin Kar?s?,Tchaikovsky's Wife,"Dram, Biyografi",Kirill Serebrennikov,03/31/2023,5057,367764,"Andreas Roald , Olivier Père","Alyona Mikhailova, Odin Lund Biron, Miron Fedorov",6.5,8,"Fransa, ?sviçre, Rusya"
-F?nd?kk?ran ve Sihirli Flüt,The Nutcracker and the Magic Flute,"Animasyon, Aile, Fantastik",Viktor Glukhushin,03/03/2023,5025,336839,"Sergey Selyanov, Georgi Gitis","Lyubov Aksyonova ,Prokhor Chekhovskoy, Aleksey Chumakov",5.2,4,Rusya
-Büyülü Kahramanlar: Büyük Macera,"Koshchey: Nachalo, The Everlasting Story","Macera, Animasyon",Andrey Kolpin,08/18/2023,4944,443589,"Robert Gndolyan,  Tatyana Tsyvareva,  Yevgeny Golovin","Nikita Volkov,  Irina Starshenbaum, Timur Rodriguez",5.6,4,Rusya
-Jeanne du Barry,Jeanne du Barry,"Dram, Tarihi, Biyografi",Maiwenn,12/08/2023,5288,697702,"Maïwenn,  Pascal Caucheteux, Gregoire Sorlat","Maïwenn,  Johnny Depp, Benjamin Lavernhe",6.7,6,Fransa
-Uçu? 811,,"Gerilim, Dram",Hakan Kerim Karademir,03/10/2023,4697,354032,"35 mm, HKF Productions, Ilgaz Film","Burcu Kara, Emre Karayel, Yosi Mizrahi",4.5,2,Türkiye
-Geri Say?m,,Aksiyon,Aykut Ta?k?n,06/30/2023,4592,395535,"Diopter Film, Metropol Yap?m","Veysel Demir, Metin P?hl?s, Hilmi Deler",8.1,2,Türkiye
-Jester: ?ntikam Gecesi,The Jester,Korku,Colin Krawchuk,10/06/2023,4475,486334," Brian Clarke ,","Ken Arnold, Matt Servitto, Lelia Symington",4.1,1,ABD
-Ç?ld?rm?? Ay?,Cocaine Bear,Gerilim,Elizabeth Banks,03/31/2023,4432,391063,"Phil Lord,  Christopher Miller, Elizabeth Banks","Keri Russell, Ray Liotta, Ayoola Smart",5.9,3,ABD
-S?rr? Cin,,Korku,U?ur Karakuzu,05/12/2023,4362,340316,Diopter Film,"Zöhre Alsan, Leyla Parlak, Serkan Güney",4,2,Türkiye
-Serçenin Gözya??,,Dram,Aysun Akyüz Mehdiabbas,03/08/2024,8903,767220,Reborn Yap?m,"Ezgi ?enler, U?ur Güne?, Ye?im Salk?m",5.6,4,Türkiye
-Gerçek Cinler 2,,Korku,Onur Aldo?an,03/24/2023,4283,314622,Onn Medya,"Gizem Noyan, Lara Fandakl?, Onur Aldo?an",3,4,Türkiye
-Sessiz Gece,Silent Night,Aksiyon,John Woo,12/08/2023,4206,500191,"Celine Rattray, Trudie Styler, Matthew Vaughn","Joel Kinnaman, Catalina Sandino Moreno, Kid Cudi",5.3,3,ABD
-Sessiz K?z,The Quiet Girl,Dram,Colm Bairéad,03/10/2023,4157,269364,Colm Bairéad,"Carrie Crowley, Andrew Bennett, Catherine Clinch",7.7,9,?rlanda
-?eytan Uykuda,Don't Come Back Alive,"Korku, Gerilim, Gizem",Néstor Sánchez Sotelo,06/30/2023,4140,389101,Néstor Sánchez Sotelo,"María Abadi, Jorge Booth, Marco de la O",3.8,2,Arjantin
-Nefes Alma,Old Man,Gerilim,Lucky McKee,08/04/2023,3929,428025,"Marc Senter, Ashleigh Snead, Cameron Burns, ","Stephen Lang, Marc Senter, Patch Darragh",4.9,2,ABD
-Bonibomlar: Kediler Pe?imizde,Barkers: Mind the Cats!,Animasyon,Elena Galdobina,07/07/2023,3506,319563,ALEKSANDR BOYARSK?Y,"Samantha Cooper, Courtney Shaw",5.3,2,Rusya
-Ç?lg?n Yar??ç?lar,Crazy Racing,Animasyon,Zhu Guo-Yang,05/19/2023,3894,318242, Fantawild Animation,"Jialin Ye, Jishang Luo, Priscilla Li, ",4.2,5,Çin
-"Belki Evet, Belki Hay?r",Maybe I Do,Komedi,Michael Jacobs,03/31/2023,3831,375016,"Vincent Newman, Michael Jacobs, Scott Mednick","Emma Roberts, Susan Sarandon, Richard Gere",5,10,ABD
-Melanet,,Korku,Kemal Danac?,09/29/2023,3810,364863,Mil Yap?m,"Erol Sertel, Zeynep Er, Emrah Yard?mc?",5.8,2,Türkiye
-?frit-i Musallat,,Korku,Raziye Sultan,08/18/2023,3779,359969,"Gris Production, ANL Yap?m","Emre Çelik, Alara Kuru, Taylan Tekci",2.7,2,Türkiye
-Büyük Felaket: Asit Ya?muru,Acide,"Gerilim, Bilim-Kurgu, Fantastik, Dram",Just Philippot,09/22/2023,3766,393881,"Jérôme Seydoux , Yves Darondeau.","Guillaume Canet, Laetitia Dosch, Patience Munchenbach",5.2,1,Fransa
-Oda,,"Korku, Gerilim",Bülent Orçin,08/11/2023,3752,347789,Orçin Yap?m,"Ceren Gül?ah Elmal?, Mustafa Zeren, Nesrin Tunç",7.3,3,Türkiye
-Korkuyorum,Beau is Afraid,"Komedi, Dram, Gizem",Ari Aster,06/09/2023,3481,342237,Lars Knudsen,"Joaquin Phoenix, Parker Posey, Amy Ryan",6.7,7,"ABD, Finlandiya, Kanada"
-Koku,,Dram,"Bar?? Görda?, Yasin Çetin",05/12/2023,3640,247881,Zeytin Film,"Nergis Öztürk, Yunus Emre Y?ld?r?mer, Mehlika Bu?lem K?l?ç",6,17,Türkiye
-Bonibomlar: Kediler Pe?imizde,Barkers: Mind the Cats!,Animasyon,Elena Galdobina,07/07/2023,3506,319563,"Aleksandr Boyarskiy, Sergey Selyanov",Courtney Shaw,5.3,2,Rusya
-Korkuyorum,Beau is Afraid,"Komedi, Dram, Gizem",Ari Aster,06/09/2023,3481,342237,"Ari Aster, Lars Knudsen","Joaquin Phoenix, Parker Posey, Amy Ryan",6.7,7,"ABD, Finlandiya, Kanada"
-Cin Gelini,,Korku,Kadir Ergin,11/17/2023,3483,331227,Makinist Film,"Hazal Pekgöz, ?layda Esmer, Kuntberk Alptemoçin",6.9,7,Türkiye
-Silüet: Bir Y?lba?? Kabusu,,Korku,Bu?ra Kekik,09/15/2023,3173,293071,Meda Film Yap?m,"Ya?mur Demircio?lu, Gül?ah Büktür, Tuncay Gençkalan",4.8,2,Türkiye
-Dali Diyar?,Daliland,"Dram, Biyografi",Mary Harron,06/02/2023,3091,312721,Charlotte Colbert,"Ben Kingsley, Barbara Sukowa, Ezra Miller",5.9,11,"ABD, Birle?ik Krall?k, Fransa"
-?üphe,The Kindred,Gerilim,Jamie Patterson,05/05/2023,3007,237450,"Tracy Jarvis, Stephen Jarvis","Samantha Bond, Patrick Bergin, James Cosmo",4.7,2,Birle?ik Krall?k
-K?z?l Gökyüzü,"Roter Himmel, Afire","Komedi, Dram, Romantik",Christian Petzold,11/24/2023,2965,343225,"Anton Kaiser, Florian Koerner von Gustorf, Michael Weber","Thomas Schubert, Paula Beer, Enno Trebs",7.2,4,Almanya
-Katili Yakalamak,"Misanthrope, To Catch a Killer","Dram, Suç, Aksiyon, Gizem",Damián Szifrón,08/25/2023,2890,322092,"Shailene Woodley, Damián Szifron, Aaron Ryder","Shailene Woodley, Ben Mendelsohn, Ralph Ineson",6.6,3,ABD
-Ela ile Hilmi ve Ali,,Dram,Ziya Demirel,04/14/2023,2886,196578,?stos Film,"Ece Yüksel, Serkan Keskin, Denizhan Akbaba",5.6,6,Türkiye
-Ölümcül Dal??,The Dive,Gerilim,Maximilian Erlenwein,09/22/2023,2852,305710,"Maximilian Leo, Jonas Katzenstein","Louisa Krause, Sophie Lowe",5.5,1,Almanya
-Suikastç?lar,The Collective,Aksiyon,Tom DeNucci,08/18/2023,2851,303467,"Jordan Beckerman, Jordan Yale Levine, Richard Switzer","Ruby Rose, Don Johnson, Lucas Till",3.2,1,ABD
-Suç Bende,"Mon Crime, My Crime","Komedi, Dram, Suç",François Ozon,05/05/2023,2794,196672,"Eric Altmeyer, Nicolas Altmeyer","Nadia Tereszkiewicz, Rebecca Marder, Isabelle Huppert",6.5,10,Fransa
-Tanr?n?n Yaratt?klar?,God's Creatures,Dram,"Anna Rose Holmer, Saela Davis",04/21/2023,2787,183819,Fodhla Cronin O'Reilly,"Emily Watson, Paul Mescal, Aisling Franciosi",6,6,"ABD, Birle?ik Krall?k, ?rlanda"
-Dikkat Köpek Var,,"Komedi, Aile","Ece ??bilen Da?, Deniz Cem Da?",12/30/2022,2769,155443,Nussi Production,"Nusret Toplar, Mutlu Güney, Güney K?l?nç",7.6,1,Türkiye
-Louis Tomlinson: All of Those Voices,,"Belgesel, Müzik",Charlie Lightening,03/22/2023,2718,222778,Charlie Lightening,"Louis Tomlinson, Isaac Anderson, Steve Aoki",8.7,1,Birle?ik Krall?k
-??aretliler: Kurban,,Korku,Bülent Terzio?lu,05/26/2023,2712,180094,EMN Yap?m,"Y?ld?z Ustaba?, ?pek Tenolcay, Muhammed Cangören",7.2,3,Türkiye
-Kurals?zlar,"Beomjoidosi 2, The Roundup","Gerilim, Suç, Aksiyon",Sang-yong Lee,04/28/2023,2621,247594,"Ma Dong-seok , Hong-baek Kim , Tri Thao Nguyen","Ma Dong-seok, Sukku Son, Gwi Hwa Choi",7,2,Güney Kore
-Metruk,,"Gerilim, Bilim-Kurgu",Mehmet Ali Zaim,09/15/2023,2581,244953,Asuman Zaim,"Serap Çetintürk, ?iar Zaim, Ali ?hsan Bozdemir",5.5,3,Türkiye
-Godless: ?eytan Tohumu,Godless: The Eastfield Exorcism,"Korku, Suç",Nick Kozakis,09/29/2023,2580,273484,"Tony Coombs , Lauren Simpson","Georgia Eyers, Dan Ewing, Tim Pocock",5.5,2,Avustralya
-Mahkum 77,Modelo 77,"Gerilim, Dram",Alberto Rodriguez,03/17/2023,2555,198195,FILM FACTORY ENTERTAINMENT,"Miguel Herrán, Javier Gutiérrez, Jesús Carroza",6.9,2,?spanya
-Tanr?n?n Unuttu?u Yer,"Vanskabte land, Godland",Dram,Hlynur Pálmason,07/14/2023,2383,209533,"Mikkel Jersin, Katrin Pors, Anton Máni Svansson","Elliott Crosset Hove, Ingvar Sigurdsson, Vic Carmen Sonne",7.2,6,"Danimarka, Fransa, ?sveç, ?zlanda"
-Obsesyon,,Gerilim,Eray Altay,06/16/2023,2331,211803,Ne Film Medya,"Ekin Mert Daymaz, Ege Kökenli, Sarp Can Köro?lu",4.6,2,Türkiye
-Ren Alt?n?,Rheingold,"Dram, Suç, Biyografi",Fatih Ak?n,07/07/2023,2277,230428,"Fatih Ak?n, Nurhan Sekerci-Porst, Herman Weigel","Emilio Sakraya, Mona Pirzad, Karim Güne?",6.8,7,"Almanya, Hollanda, ?talya"
-Otoban Katilleri,,"Gerilim, Suç, Aksiyon",Tolga Kad?o?lu,08/25/2023,2236,211669,"Safkan Sinema, Ceylan Yap?m","Korkut Çözer, Muhammet Mustafa Karademir, Bar?? Hac?han",5.1,2,Türkiye
-A?k?n Bununla Ne ?lgisi Var?,What's Love Got to Do with It?,"Komedi, Romantik",Shekhar Kapur,05/19/2023,2184,234067,"Kate Lanier, Doug Chapin, Barry Krost","Mim Shaikh, Lily James, Emma Thompson",6.3,5,Birle?ik Krall?k
-Kent Mezarl???nda S?z?nt?,,Korku,Umut Burçin Gülseçgin,10/06/2023,2147,197335,Union Yap?m,"Enfal Uzel, Samet Gürsel, Cengiz Çevik",3,2,Türkiye
-Tehlikeli Sular,Dangerous Waters,Gerilim,John Barr,10/13/2023,2077,181669,"Marc Goldberg, Suza Horvat","Eric Dane, Odeya Rush, Ray Liotta",5.2,4,ABD
-Aniden,,Dram,Melisa Önel,12/22/2023,3206,345047,Alara Hamamc?o?lu,"Defne Kayalar, Öner Erkan, ?erif Erol",6.9,7,Türkiye
-?ntikam Oyunlar?,,"Dram, Aksiyon",Servet Aksoy,04/21/2023,2042,144411,Zeki Sincar Production,"Bar?? Küçükgüler, Cansu Kanl?kaya, Mehmet Çepiç",5.5,3,Türkiye
-Oyun Bitti,,Aksiyon,Gökhan Ar?,10/27/2023,2010,202741,Yakamoz Prodüksiyon,"?lker Aksum, Can Nergis, Melih Selçuk",4,2,Türkiye
-Sekiz Da?,"Le otto montagne, Eight Mountains",Dram,"Felix van Groeningen, Charlotte Vandermeersch",03/24/2023,2000,125835,"Mario Gianani , Lorenzo Gangarossa","Luca Marinelli, Alessandro Borghi, Lupo Barbiero",7.7,9,"Belçika, Fransa, ?talya"
-Joyland,,Dram,Saim Sadiq,06/16/2023,1979,155578,"Apoorva Guru Charan, Sarmad Khoosat","Ali Junejo, Rasti Farooq, Alina Khan",7.6,9,"ABD, Pakistan"
-?eytana Sempati,Sympathy for the Devil,"Gerilim, Aksiyon",Yuval Adler,09/08/2023,1974,189366,"Nicolas Cage, Allan Ungar, Stuart Manashil","Nicolas Cage, Joel Kinnaman, Alexis Zollicoffer",5.5,2,ABD
-Belle ve Sebastian: Cesur Dostum,Belle et Sébastien: Nouvelle génération,"Macera, Dram, Aksiyon",Pierre Coré,05/12/2023,1966,143427,"Clément Miserez, Matthieu Warter, Sidonie Dumas","Robinson Mensah Rouanet, Michèle Laroque",5.8,4,Fransa
-Alya,,"Bilim-Kurgu, Aksiyon",Jandae Perçem,11/17/2023,1857,202102,Oceans Filmworks,"Jandae Perçem, Edis Görgülü, Hande Ataizi",7.1,2,Türkiye
-Saint Omer,,Dram,Alice Diop,06/09/2023,1828,139400,"Toufik Ayadi, Christophe Barral","Kayije Kagame, Guslagie Malanda, Xavier Maly",6.8,9,Fransa
-Ulan Salih,,Komedi,Bülent Terzio?lu,03/10/2023,1827,122873,Says Medya,"?nan Ula? Torun, Eslem Akar, Levent Sülün",3,2,Türkiye
-Maymun Kral Geri Döndü,"Xi You Ji Zhi Zai Shi Yao Wang, Monkey King Reborn","Animasyon, Fantastik, Aksiyon",Yunfei Wang,09/15/2023,1795,164513,Yunfei Wang,"Yenni Ann, Xuecen Bai, Zhongyang Baomu",6,2,Çin
-Tavuri,,Belgesel,Dervi? Zaim,09/15/2023,1779,161801,Marathon Film,Mustafa Sertta?,7.6,6,Türkiye
-Adalet,,"Dram, Aksiyon",Özgür Bakar,06/23/2023,1776,169738,2506,"Ça?an Atakan Arslan, Ufuk Özkan, Eslem Akar",3.2,2,Türkiye
-?eker K?z ve Arkada?lar? Macera Adas?nda,Tarsilinha,"Macera, Komedi, Animasyon","Kiko Mistrorigo, Celia Catunda",12/30/2022,1898,103937,Ricardo Rozzino,"Özge Çeçen, Ahmet Teke?, Burçin Artut",6.1,3,Brezilya
-?kinci Görü?te A?k,"Mon Inconnue, Love at Second Sight","Komedi, Dram, Romantik",Hugo Gélin,07/07/2023,1884,201965,"Hugo Gélin, Laetitia Galitzine, Valérie Garcia","François Civil, Joséphine Japy, Benjamin Lavernhe",6.9,2,"Belçika, Fransa"
-Orman,,Korku,Mohsen Rabiei,12/30/2022,1869,101575,Sos Medya,"Beyza Nur Önispir, Selda Yeliz Nar, Gizem Çelebi",7,3,Türkiye
-Gizemli Mesaj,,"Korku, Gerilim",Tayfun Can Demirta?,06/30/2023,1858,98065,"Hayalet Film, Skypic Films","Erkan Özmen, Ay?egül Kaygusuz, Yaprak Tüter",4.2,1,Türkiye
-Sword Art Online the Movie: Progressive - Scherzo of Deep Night,Gekijouban Sword Art Online the Movie: Progressive - Kuraki Yuuyami no Scherzo,"Macera, Animasyon, Aksiyon",Ayako Kouno,05/12/2023,1738,155931,"Kaoru Adachi, Yousuke Futami, Keisuke Hirai","Haruka Tomatsu, Yoshitsugu Matsuoka, Shiori Izawa",6.6,2,Japonya
-Kötülük Diye Bir ?ey Yok,"Aku wa sonzai shinai, Evil Does Not Exist","Dram, Müzik",Ryûsuke Hamaguchi,12/01/2023,1915,190522,"Satoshi Takata, ?????? ??????","Hitoshi Omika, Ryô Nishikawa, Ryûji Kosaka",7.2,5,Japonya
-Yüz Yüze,"Wesh X Wesh, Face to Face",Komedi,Waleed El Halfawy,11/03/2023,1706,199015,"Ahmad Fahmy, Hani Naguib","Mohamed Mamdouh, Amina Khalil, Mohamed Shahin",7.7,2,M?s?r
-Güvenli Bir Yer,"Sigurno Mjesto, Safe Place",Dram,Juraj Lerotic,09/15/2023,1704,137926,M?LJENKA ?OGELJA,"Juraj Lerotic, Snjezana Sinovcic, Goran Markovic",7.3,7,H?rvatistan
-Vesnan,,"Korku, Gerilim",Bülent Orçin,09/15/2023,1698,153994,Orçin Yap?m,"Mehmet Bilen, Beste Tosuner, Orkun Özcan",2.5,1,Türkiye
-Sava? At?,War Pony,Dram,"Gina Gammell, Riley Keough",05/26/2023,1680,117542,"Gina Gammell, Riley Keough, Willi White","Iona Red Bear, Wilma Colhof, Ashley Shelton",6.8,6,"ABD, Birle?ik Krall?k"
-Venüs'te Görü?ürüz,See You on Venus,"Dram, Romantik",Joaquín Llamas,08/04/2023,1680,171930,Brian Pitt,"Virginia Gardner, Rob Estes, Alex Aiono",6,2,ABD
-Mir Anka,,Korku,Ekrem Düzgüno?lu,08/04/2023,1676,164276,BPM Müzik Film,"Simge Can, Ethem Çap, Emre Çelik",3.7,1,Türkiye
-Her ?eye Ra?men,,Dram,Erdal Murat Akta?,09/29/2023,1671,165387,Verway,"Erkan Petekkaya, Sinan Akdeniz, Nihan Büyüka?aç",6.6,1,Türkiye
-Sisu,,"Suç, Aksiyon",Jalmari Helander,06/30/2023,1634,156762,Petri Jokiranta,"Jorma Tommila, Aksel Hennie, Jack Doolan",6.9,2,"Birle?ik Krall?k, Finlandiya"
-Kaçakç?lar,Smugglers,"Suç, Aksiyon",Seung-wan Ryu,09/08/2023,1621,176459,Kang Hyejeong,"Kim Hye-su, Yum Jung-ah, Zo In-sung",6.2,1,Güney Kore
-Emeklilik Plan?,The Retirement Plan,"Komedi, Suç, Aksiyon",Tim Brown,09/29/2023,1598,176125,"Doug Murray, Nicholas Tabarrok, William G. Santor","Nicolas Cage, Ashley Greene, Ron Perlman",5.1,2,Kanada
-Bulutlar?n Üstünde,,"Komedi, Dram",Deniz Ç?nar,09/08/2023,1595,151456,Ç?nar Film,"Cemal Hünal, Ruhi Sar?, Kerim Aydemir",5.6,2,Türkiye
-Gezegenler Sava??,The Wandering Earth 2,"Macera, Dram, Aksiyon","Frant Gwo, Erlendur Sveinsson",08/25/2023,1558,177089,"Liu Cixin, Gong Geer, Anthony Argento, Liu Kailuo","Andy Lau, Jing Wu, Hao Feng",6.8,1,Çin
-Bat?l 2,,Korku,Bedel Art,02/24/2023,1549,91329,Bulut Film,"Buket Sivrikaya, ?eyma Yücel, Adem Gerçek",5,4,Türkiye
-Masum,The Innocent,"Komedi, Suç, Romantik",Louis Garrel,05/12/2023,1446,98924,Anne-Dominique Toussaint,"Louis Garrel, Roschdy Zem, Anouk Grinberg",6.7,6,Fransa
-Resident Evil: Death Island,,"Animasyon, Aksiyon",Eiichirô Hasumi,07/21/2023,1385,132374,"Makoto Fukami, Hiroyasu Shinohara","Matthew Mercer, Nicole Tompkins, Kevin Dorman",5.7,2,Japonya
-Mitat,,"Komedi, Dram",Süleyman Arda Eminçe,04/07/2023,1310,92778,Alim Yap?m,"Kadir Do?ulu, Sinan Albayrak, Dilek Serbest",4.9,3,Türkiye
-Carmen,,"Dram, Müzikal",Benjamin Millepied,08/18/2023,1310,144005,"Rosemary Blight, Dimitri Rassam, Mimi Valdes","Melissa Barrera, Paul Mescal, Elsa Pataky",5.8,5,"Avustralya, Fransa"
-Tori ve Lokita,Tori and Lokita,Dram,"Jean-Pierre Dardenne, Luc Dardenne",06/02/2023,1278,81509,"Luc Dardenne, Jean-Pierre Dardenne, Delphine Tomson","Pablo Schils, Joely Mbundu, Alban Ukaj",7.1,6,"Belçika, Fransa"
-Sonsuz S?r,The Eternal Daughter,"Dram, Gizem",Joanna Hogg,09/08/2023,1278,139375,"Joanna Hogg, Emma Norton, Ed Guiney","Tilda Swinton, Carly Sophia Davies, August Joshi",5.9,3,"ABD, Birle?ik Krall?k"
-Asi,Rebel,"Gerilim, Dram, Aksiyon","Bilall Fallah, Adil El Arbi",03/17/2023,1269,69215,"Bert Hamelinck, Dimitri Verbeeck","Aboubakr Bensaihi, Lubna Azabal, Tara Abboud",7.4,4,"Belçika, Fransa, Lüksemburg"
-H?rç?n,Scrapper,"Komedi, Dram",Charlotte Regan,09/01/2023,1206,1206,Theo Barrowclough,"Lola Campbell, Alin Uzun, Cary Crankson",7,5,Birle?ik Krall?k
-Çözümler Kitab?,The Book of Solutions,"Komedi, Dram",Michel Gondry,10/20/2023,1187,114340,Georges Bermann,"Pierre Niney, Blanche Gardin, Frankie Wallach",6.2,4,Fransa
-Ba?kalar?n?n Çocuklar?,Other People’s Children,"Komedi, Dram, Romantik",Rebecca Zlotowski,08/04/2023,1163,108650,"Frederic Jouve, Marie Lecoq","Virginie Efira, Roschdy Zem, Chiara Mastroianni",6.8,6,Fransa
-Astroscope: Bir Konser Filmi,Stargazer: Astroscope,"Belgesel, Konser, Müzik",Doha,04/14/2023,1112,99218,Fantagio,"Eun-Woo Cha, Kim Myung-joon, Moon Bin",8.8,1,Güney Kore
-Tom Medina,,Dram,Tony Gatlif,03/03/2023,1022,57685,Princes Films,"David Murgia, Slimane Dazi, Karoline Rose Sun",6.2,8,"Fransa, ?sviçre"
-Gasp,,"Korku, Gerilim",Mohsen Rabiei,04/07/2023,1017,66446,Inception Estate,"Nergis Odzak, Sercan Boztepe, Beyzanur Önispir",2.8,2,Türkiye
-The First Slam Dunk,,"Komedi, Animasyon, Dram",Takehiko Inoue,07/28/2023,996,113650,Toshiyuki Matsui,"Shugo Nakamura, Jun Kasama, Shinichiro Kamio",8.2,1,Japonya
-Hedefteki Adam,The Point Men,"Gerilim, Dram, Aksiyon",Soon-rye Yim,06/30/2023,917,97407,"Shin Bum-soo , Nam Jeong-il","Hyun Bin, Hwang Jung-min, Kang Ki-young",6,1,Güney Kore
-Paris Hat?ralar?,Paris Memories,Dram,Alice Winocour,07/21/2023,877,94756,"Émilie Tisné, Isabelle Madelaine","Virginie Efira, Benoît Magimel, Grégoire Colin",6.9,5,Fransa
-Sürü,La jauría,Dram,Andrés Ramírez Pulido,07/28/2023,831,73831,"Andrés Ramírez Pulido, Lou Chicoteau, Jean-Étienne Brat","Jhojan Estiven Jimenez, Maicol Andrés Jimenez, Miguel Viera",6.7,3,"Fransa, Kolombiya"
-Disco Boy,,Dram,Giacomo Abbruzzese,07/07/2023,808,64229,"Lionel Massol, Pauline Seigland","Franz Rogowski, Morr Ndiaye, Laetitia Ky",6.5,5,"Belçika, Fransa, ?talya"
-Dejar: Cin Vah?eti,,Korku,Raziye Sultan,12/22/2023,963,80788,Gris Production,"Emel Yetenek, Abdulkadir Biçer, Ay?e Nur Keskin",3,4,Türkiye
-1976,,Dram,Manuela Martelli,09/22/2023,803,65010,"Andrés Wood, Dominga Sotomayor Castillo","Aline Küppenheim, Nicolás Sepúlveda, Hugo Medina",6.7,6,"Arjantin, ?ili"
-Para Konu?ur,,"Dram, Aksiyon",Bülent Terzio?lu,09/01/2023,725,67510,Starworks Yap?m,"Selçuk K?l?ç, Asl?han Karalar, Kubilay Penbeklio?lu",2.8,1,Türkiye
-Bir Boru Hatt? Nas?l Patlat?l?r,How to Blow Up a Pipeline,"Gerilim, Dram, Suç",Daniel Goldhaber,06/30/2023,722,56738,"Daniel Goldhaber , Alex Black , Ariela Barer","Ariela Barer, Kristine Froseth, Lukas Gage",6.9,6,ABD
-Lanetli Miras: Yanl?? Adres,,"Korku, Gerilim, Gizem",Omma Okan K?l?ç,09/15/2023,722,63599,Omma Yap?m,"Caner Çiftçi, Turgay Y?ld?z, Ebrar Gür",3.1,2,Türkiye
-Seni Görüyorum,,Dram,Ender M?hlar,11/10/2023,715,83241,Cansu Ayhan Yap?m,"Feyyaz Duman, Melis Birkan, Hakan Sal?nm??",6.8,1,Türkiye
-Huzurum Kalmad?: Bir Huzurevi Komedisi,,Komedi,Soner Demirci,09/22/2023,660,58473,Mi Yap?m,"Taner ?ahin, Umut Özalp, Emrullah Baran Öztürk",8.6,1,Türkiye
-Bas Gaza Bas,Manta Manta: Legacy,"Komedi, Aksiyon",Til Schweiger,10/27/2023,644,63607,"Philipp Reuter, Viola Jäger, Christoph Müller","Til Schweiger, Luna Schweiger, Tim Oliver Schultz",3.3,1,Almanya
-B?rak Art?k ?u Yalanlar?n?,Arrête avec tes mensonges,Dram,Olivier Peyon,08/18/2023,634,63050,"Anthony Doncque, Gilles Sacuto, Miléna Poylo","Guillaume de Tonquedec, Victor Belmondo, Guilaine Londez",7.6,3,Fransa
-Terracotta Krall???,Realm of Terracotta,"Animasyon, Aksiyon","Leon Ding, Yongchang Lin",09/15/2023,632,65733,Fantawild Animation,"Joseph S. Lambert, Nichalia Schwartz, Chris Boike",6.2,1,Çin
-Uyan??,Chariot,Bilim-Kurgu,Adam Sigal,07/21/2023,629,66695,"Sasha Yelaun, Carol Anne Watts, Johnny Remo","Thomas Mann, Rosa Salazar, John Malkovich",3.6,2,ABD
-Bir Umut,,Dram,Ümit Köreken,05/19/2023,584,38621,Drama Film Prodüksiyon,"Baran ?ükrü Babacan, Eylem Y?ld?z, Funda Eskio?lu",7.2,9,Türkiye
-Suna,,Dram,Çi?dem Sezgin,08/18/2023,574,50278,"Kule Film, Taranna Films","Nurcan Eren, Tar?k Pabuççuo?lu, F?rat Tan??",6.7,3,Türkiye
-Motelde Katliam,,"Korku, Gerilim","Murat Ku?çu, Feyza Ayd?n K?l?ç",03/24/2023,543,33119,HMK,"Feyza Ayd?n K?l?ç, Aleyna K?l?ç, Bülent Mert",1.9,4,Türkiye
-Kaçak Avc?lar,,Aile,Fatih Y?ld?r?m,08/18/2023,538,45910,Makinist Film,"Emir Erol, Nisa Duru Yazan, Altu? Seçkiner",3.2,1,Türkiye
-Amcam,My Uncle,Komedi,Jacques Tati,08/11/2023,534,48585,"Jacques Tati, Fred Orain, Louis Dolivet","Jacques Tati, Jean-Pierre Zola, Adrienne Servantie",7.7,1,Fransa
-Gölge Ajan: ?stanbul'da Ölümcül Hesapla?ma,"Ten: Vzyat Gordeya, Shadow","Macera, Aksiyon","Ilya Kulikov, Anya Mirohina",08/11/2023,526,55381,Alina Gerasimova,"Tatyana Babenkova, Iman Baysayeva, Martin Cooke",4.6,1,Rusya
-Kelebek Görü?ü,Butterfly Vision,Dram,Maksym Nakonechnyi,08/25/2023,507,43658,"Darya Bassel, Yelizaveta Smit","Rita Burkovska, Lyubomyr Valivots, Myroslava Vytrykhovska-Makar",6.6,4,"Çek Cumhuriyeti, ?sveç, Ukrayna"
-Oyun Vakti,Playtime,Komedi,Jacques Tati,08/11/2023,501,46523,Bernard Maurice René Silvera,"Jacques Tati, Barbara Dennek, Rita Maiden",7.8,1,Fransa
-Harold Fry'?n Beklenmedik Yolculu?u,The Unlikely Pilgrimage of Harold Fry,Dram,Hettie Macdonald,07/14/2023,492,70920,"Juliet Dowling, Kevin Loader, Marilyn Milgrom","Jim Broadbent, Penelope Wilton, Monika Gossmann",6.8,2,Birle?ik Krall?k
-Özel Bir Hediye,The New Toy,Komedi,James Huth,03/24/2023,478,47407,Richard Grandpierre,"Jamel Debbouze, Daniel Auteuil, Alice Belaïdi",5.9,4,Fransa
-Para Av?,Hunted,Aksiyon,Ari Novak,09/01/2023,466,46764,"Rib Hillis, Ari Novak, Todd Slater","Rachel Cook, Rib Hills, Bobby Maximus",3.9,1,ABD
-Yenilmez Üçler,Once Upon a Time in Ukraine,"Macera, Komedi, Aksiyon",Roman Perfilyev,07/07/2023,348,33267,Yuriy Minzyanov,"Roman Lutskyi, Sergey Strelnikov, Gen Seto",6.7,1,Ukrayna
-Tefti?,The Inspection,Dram,Elegance Bratton,07/21/2023,334,28815,Effie Brown,"Jeremy Pope, Gabrielle Union, Bokeem Woodbine",6.7,2,ABD
-Bay Hulot'nun Tatili,Monsieur Hulot's Holiday,Komedi,Jacques Tati,08/11/2023,333,30569,"Fred Orain, Jacques Tati ","Jacques Tati, Nathalie Pascaud, Micheline Rolla",7.3,1,Fransa
-Bir Tutam Karanfil,,Dram,Bekir Bülbül,10/13/2023,502,49255,May?s Film,"Demir Parscan, ?am ?erit Zeydan, Bahad?r Efe",6.1,1,Türkiye
-Umay,,Korku,Osman Tu?ra,04/14/2023,328,8315,Film Doktoru,"Osman Tu?ra, Tamer Küçük, Sude Kasap",3,9,Türkiye
-Birkaç M?sraym?? Me?er,,Dram,"Hüsamettin Elçi, Arin Arjen Öztürk",11/17/2023,260,28370,Elçi Belgelendirme,"Seyit Taha Elçi, ?ermin Güven, Ahmet F?rat ?çigen",3,1,Türkiye
-Düet,,Belgesel,"Ekin ?lkba?, ?dil Akku?",09/22/2023,254,17419,Pablo Film,"Defne Bak?rc?, M?sra Günde?, Nataliya Maschcuk",6.5,5,Türkiye
-Simitçi,,Dram,Serkan Özarslan,12/15/2023,246,28670,TFT Yap?m,"Gürbey ?leri, Tolga Güleç, Ece Gökçen",4,1,Türkiye
-Produkty 24,Convenience Store,"Dram, Suç",Michael Borodin,04/07/2023,237,15382,Asya Pavlovskaya,"Zukhara Sanzysbay, Lyudmila Vasilieva, Tolibjon Suleymanov",6.2,1,"Almanya, Rusya"
-S?r ?eytan?n Kurbanlar?,,"Korku, Gerilim",Yavuz Duman,10/27/2023,231,18255,Naz?n Medya,"Murat Sar?y?ld?z, Yavuz Duman, ?ehnaz Dilan",6.4,1,Türkiye
-Yasa D???,The Gemini Lounge,"Gerilim, Dram, Suç",Danny A. Abeckaser,09/22/2023,222,20625,"Danny A. Abeckaser, Kyle Stefanski, Jon Brewer","Emile Hirsch, Lucy Hale, Ashley Greene",5.5,1,ABD
-Hazep,,Korku,Do?u? Arslan,10/06/2023,205,18330,Skypic Films,"Damla Taka, Cemal A?k?n Alpçetin, Do?u? Arslan",3,1,Türkiye
-Demon Slayer: Kimetsu No Yaiba - Orchestra Concert - Mugen Train Arc,,"Animasyon, Müzik",Hirofumi Kurita,12/15/2023,165,22455,CGV Mars D.,Tokyo Philharmonic Orchestra,8.2,1,Japonya
-Viyana Operas? Sahne Arkas?,Backstage Wiener Staatsoper,Belgesel,Stephanus Domanig,12/08/2023,152,24750,Prisma Film- und Fernsehproduktion,"Marco Armiliato, Simon Keenlyside, Elina Garanca",6.8,1,Avusturya
-K?z?m,,"Gerilim, Dram",?hsan Gökhan Gökçay,03/31/2023,73,4325,Mor Yap?m,"Erol Yavan, Sinem Dalk?ran, P?nar Kartal",2.8,2,Türkiye
-Borcumuz Borç,,Komedi,Abbas Karatekin,08/11/2023,36,2489,Kadraj Film,"Can ?uoruç, Metin Keçeci, Selahattin Ta?dö?en",3,1,Türkiye
+?eker K?z ve Arkada?lar? Macera Adas?nda,Tarsilinha,"Macera, Komedi, Animasyon","Kiko Mistrorigo, Celia Catunda",12/30/2022,1898,103937,Ricardo Rozzino,"Özge Çeçen, Ahmet Teke?, Burçin Artut",7.8,3,Brezilya
+Orman,,Korku,Mohsen Rabiei,12/30/2022,1869,101575,Sos Medya,"Beyza Nur Önispir, Selda Yeliz Nar, Gizem Çelebi",7.1,3,Türkiye
+Dikkat Köpek Var,,"Komedi, Aile","Ece ??bilen Da?, Deniz Cem Da?",12/30/2022,2769,155443,Nussi Production,"Nusret Toplar, Mutlu Güney, Güney K?l?nç",6.7,1,Türkiye
 Ali Çevlik,,Dram,Mahmut Baldemir,12/30/2022,9387,281714,Beyrut Yap?m,"Erkan Bekta?, Sefa Zengin, ?evki Altunbuken",5,5,Türkiye
 Hayalimdeki Dü?ün,Shotgun Wedding,"Komedi, A?k, Aksiyon",Jason Moore,12/30/2022,17084,1327834,"Jennifer Lopez, Todd Lieberman","Jennifer Lopez, Josh Duhamel, Lenny Kravitz",5.4,2,ABD
 Lanetli Göl,Monstrous,"Korku, Gerilim, Gizem",Chris Sivertson,12/30/2022,30721,1973766,"Robert Yocum, B.I. Rosen, Johnny Remo, Sasha Yelaun","Christina Ricci, Santino Barnard, Don Durrell",4.6,4,ABD
-Çakallarla Dans 6,,"Komedi, Aksiyon",Murat ?eker,12/02/2022,862380,50504213,"SugarWorkz, TAFF","?evket Çoruh, ?lker Ayr?k, Timur Acar",6.9,10,Türkiye
+Çakallarla Dans 6,,"Komedi, Aksiyon",Murat ?eker,12/02/2022,"
+862.380",50504213,"SugarWorkz, TAFF","?evket Çoruh, ?lker Ayr?k, Timur Acar",6.9,10,Türkiye
 Bergen,,"Dram, Biyografi","Mehmet Binay, M. Caner Alper",03/04/2022,5484798,160057802,Orchestra Content,"Farah Zeynep Abdullah, Erdal Be?ikçio?lu, Tilbe Saran",6.9,28,Türkiye
 Kesi?me - ?yi ki Vars?n Eren,,"Dram, Biyografi",Özer Feyzio?lu,01/01/2022,2328090,53335686,"Dijital Sanatlar, TRT","?smail Hac?o?lu, Rahman Be?el, Alayça Öztürk Gidi?o?lu",7.3,43,Türkiye
 Doktor Strange C?oklu Evren C??lg?nl?g??nda,Doctor Strange in the Multiverse of Madness,"Macera, Fantastik, Aksiyon, 3 Boyutlu, IMAX",Sam Raimi,05/06/2022,1563041,59457089,Marvel Studios,"Benedict Cumberbatch, Elizabeth Olsen, Rachel McAdams",6.9,17,ABD
-Avatar: Suyun Yolu,Avatar: The Way of Water,"Macera, Fantastik, Aksiyon, 3 Boyutlu, IMAX",James Cameron,12/16/2022,2608695,182608911,James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver",7.8,8,ABD
+Avatar: Suyun Yolu,"Avatar: The Way of Water
+","Macera, Fantastik, Aksiyon, 3 Boyutlu, IMAX",James Cameron,12/16/2022,2608695,182608911,James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver",7.8,8,ABD
 Thor: A?k ve Gök Gürültüsü,Thor: Love and Thunder,"Macera, Fantastik, Aksiyon",Taika Waititi,07/08/2022,1229668,53833184,Kevin Feige,"Chris Hemsworth, Tessa Thompson, Natalie Portman",6.3,15,ABD
 Minyonlar 2: Gru'nun Yükseli?i,Minions: The Rise of Gru,"Macera, Animasyon, 3 Boyutlu","Kyle Balda, Brad Ableson",07/01/2022,1194447,49750622,"Chris Renaud, Chris Meledandri, Janet Healy","Steve Carell, Alan Arkin, Taraji P. Henson",6.6,26,ABD
 Aslan Hürku? Kay?p Elmas,,Animasyon,"Hakan Bol, H. Sinan Güngor",01/07/2022,1167455,27460718,"Outline Ajans, Akko Organizasyon","Kayra Özdemir, Elif Gizem Aykul, Nusret Çetinel",6.3,28,Türkiye
@@ -490,13 +173,13 @@ Koloni,"Tides, The Colony","Gerilim, Bilim-Kurgu",Tim Fehlbaum,01/21/2022,23261,
 Tav?an Okulu: Ç?lg?n Yumurtalar,"Die Häschenschule - Der große Eierklau, Rabbit Academy: Mission Eggpossible","Macera, Komedi, Animasyon",Ute von Münchow-Pohl,09/09/2022,23627,1033984,Dirk Beinhold,"Friedrich Von Thun,Senta Berger,Jule Böwe",5.5,12,Almanya
 Süper Yetenek 2,Rock Dog 2,"Macera, Komedi, Animasyon",Mark Baldo,05/19/2022,23216,729509,"Andrew Tight, Ken Katsumoto, Liz Young"," Andrew Francis , Brain Dabson, Sabrina Pitre",5,12,"ABD,Çin"
 Cânn,,Korku,Eren Ergin,09/16/2022,21902,939013,Cihangir Yap?m,"Alihan Demirbilek, Sahra Yalç?n, Ekrem Türker",4.9,6,Türkiye
-?kiz,The Twin,Korku,Taneli Mustonen,04/29/2022,21891,806327,"Aleksi Hyvärinen , Joris van Wijk ","eresa Palmer, Steven Cree, Barbara Marten",5.1,3,Filandiya
-Korku Evi,Behind You,Korku,"Matthew Whedon, Andrew Mecham",08/12/2022,21545,902957,"Larissa beck, Jesse ranney","Addy Miller, Elizabeth Birkner, Jan Broberg",4.2,6,ABD
+?kiz,The Twin,Korku,Taneli Mustonen,04/29/2022,21891,806327," Aleksi Hyvärinen , Joris van Wijk ","eresa Palmer, Steven Cree, Barbara Marten",5.1,3,Filandiya
+Korku Evi,Behind You,Korku,"Matthew Whedon, Andrew Mecham",08/12/2022,21545,902957," Larissa beck, Jesse ranney","Addy Miller, Elizabeth Birkner, Jan Broberg",4.2,6,ABD
 Korku Takvimi,,Korku,Yunus ?evik,05/13/2022,21243,691524,Dras Film Pictures,"Nevin Efe, Melisa Seda, Zafer Kora",5.8,9,Türkiye
 Kad?n Kral,The Woman King,"Dram, Tarihi",Gina Prince-Bythewood,10/14/2022,20742,1257394,"Viola Davis,Julius Tennon,Cathy Schulman","Viola Davis, John Boyega, Thuso Mbedu",6.8,4,ABD
-Cesur Bal?k Sihirli Dünyada,Magic Arch,"Animasyon, 3 Boyutlu",Vasiliy Rovenskiy,05/19/2022,20710,676909,"Roman Borisevich,maxim rogalsky, vasiliy rovenskiy"," Stephen Thomas Ochsner,Daniil Medvedev,Liza Klimova",4.2,9,Rusya
+Cesur Bal?k Sihirli Dünyada,Magic Arch,"Animasyon, 3 Boyutlu",Vasiliy Rovenskiy,05/19/2022,20710,676909," Roman Borisevich,maxim rogalsky, vasiliy rovenskiy"," Stephen Thomas Ochsner,Daniil Medvedev,Liza Klimova",4.2,9,Rusya
 Semur 3: K?yamet-i Cin,,Korku,Burak Çelik,06/03/2022,20124,545795,BMS Film,"Gizem Tan, Zülfü Hamit Alt?n, Volkan Ba?aran",4,5,Türkiye
-Acil ?ni?,Emergency Declaration,"Gerilim, Dram, Aksiyon, IMAX",Jae-rim Han,09/09/2022,19683,997816,"Han Suk-kyu , Kim Do-soo , Zoo-Young Eum","Lee Byung-hun, Kang-ho Song, Jeon Do-yeon",6.9,6,Güney Kore
+Acil ?ni?,Emergency Declaration,"Gerilim, Dram, Aksiyon, IMAX",Jae-rim Han,11/20/1953,19683,997816,"Han Suk-kyu , Kim Do-soo , Zoo-Young Eum","Lee Byung-hun, Kang-ho Song, Jeon Do-yeon",6.9,6,Güney Kore
 Cumali Ceber 666,,Komedi,Fuat Kurto?lu,01/21/2022,19660,468401,2506,"Halil Söyletmez, Do?a Konako?lu, Deniz Deliç",1,2,Türkiye
 Gazap,,Korku,Onur Aldo?an,09/23/2022,19533,894721,Cinemoon Film,"Tayfun Turhan, Özgür Konak, Sinan Ta?kan",4,8,Türkiye
 Nalan,,Komedi,Fatih Mutlu,01/07/2022,19320,471146,Two Yap?m,"Açelya Topalo?lu, Sergen Deveci, Berna Koraltürk",3.1,3,Türkiye
@@ -715,24 +398,33 @@ Benim Güne?li Maad'?m,My Sunny Maad,"Animasyon, Dram",Michaela Pavlátová,05/27/2
 Hayvan,,"Dram, Biyografi","Bülent Terzio?lu, Atilla Bar??er",05/19/2022,403,13033,"Sin Yap?m, Panjea Prodüksiyon","Bedirhan Bar??er, Mehmet Ulay, Anta Toros",6.4,2,Türkiye
 Anadolu Leopar?,,"Dram, Suç, Gizem",Emre Kayi?,04/01/2022,389,11028,MRK Film,"U?ur Polat, Tansu Biçer, Hatice Aslan",6.1,3,"Türkiye, Almanya, Danimarka, Polonya"
 Pi Sonsuzluk,,"Korku, Gerilim",Y?lmaz Ayd?n,05/27/2022,362,14026,Fi Yap?m Medya,"Umut Özalp, Wilma Elles, Taner ?ahin",0,1,Türkiye
-Annemin Zaman?,,Dram,Hüsnü Hakan Gürtop,04/29/2022,349,9887,Uzay Film,"U?ur Çavu?o?lu, Gonca Yakut, Serkan Ek?io?lu",0,2,Türkiye
+"Annemin Zaman?
+",,Dram,Hüsnü Hakan Gürtop,04/29/2022,349,9887,Uzay Film,"U?ur Çavu?o?lu, Gonca Yakut, Serkan Ek?io?lu",0,2,Türkiye
 ?çimdeki Varl?k,,"Korku, Gerilim",Mustafa Özer,10/07/2022,322,13406,4.2K Film Yap?m,"?evki Özcan, Burcu Genç, Metin K?rm?z?",0,2,Türkiye
 Payidar: Gazi'nin Büyük Tablosu,,Belgesel,"Görkem Uludüz, Onur Ö?den",05/27/2022,311,10639,Uludüz Medya,"Mert Baymak,Aycan Balkan,Meral Navdar",7.4,1,Türkiye
-?çimdeki Kahraman,,"Fantastik, Dram",Sinan Sertel,05/27/2022,264,7732,Fanus-u Hayal Film,"Ahmet Melih Y?lmaz, Ulvi Kahyao?lu, Öykü Naz Altay",6.6,3,Türkiye
+"?çimdeki Kahraman
+",,"Fantastik, Dram",Sinan Sertel,05/27/2022,264,7732,Fanus-u Hayal Film,"Ahmet Melih Y?lmaz, Ulvi Kahyao?lu, Öykü Naz Altay",6.6,3,Türkiye
 ?smetse Olur,,Komedi,Umut Kaya,02/11/2022,255,7098,Mania Yap?m,"Turan Özdemir, Ayça Ekin Be?en, Melis Buse Betkayan",0,3,Türkiye
 Hollywood'lu Tu?rk,Hollywoodtürke,Komedi,Murat Ünal,02/18/2022,202,5787,Murat Ünal,"Murat Ünal, Jennifer Bischof, ?lkan Ayd?n",5,1,Almanya
 Deli Kaz?m,,"Macera, Komedi",Özgür Murat Sönmez,09/23/2022,195,8490,BBMEDIA2000 Prodüksiyon,"Ceyhun Y?lmaz, Vedat Erincin, Meral Perin",0,2,Türkiye
 8-0,,Komedi,U?ur Güzel,09/02/2022,169,5649,Hars Te?ebbüs,"Arif Sevimli, Mustafa Yavuz, Aydo?an Temel",0,2,Türkiye
 Pota,,"Aile, Dram",Ahmet Toklu,08/19/2022,161,5527,Toklu Yap?mc?l?k,"Alp Akar, Bahar Hac?bekta?o?lu, Sibel Melek Arat",7.4,1,Türkiye
-Mekan,,Dram,Enes Hakan Tokyay,09/30/2022,126,6310,Ailece Yap?m,"Zekeriya Akman, Do?u? Tunali, Helin Bilenler",0,1,Türkiye
-?lk Temas,,"Gerilim, Bilim-Kurgu",Atilla Bar??er,01/28/2022,122,2567,Naz?m Medya,"Bekir Ann?ak, Bedirhan Bar??er, Maksut Kesici",0,1,Türkiye
+"Mekan
+",,Dram,Enes Hakan Tokyay,09/30/2022,126,6310,Ailece Yap?m,"Zekeriya Akman, Do?u? Tunali, Helin Bilenler",0,1,Türkiye
+?lk Temas,,"Gerilim, Bilim-Kurgu
+
+",Atilla Bar??er,01/28/2022,122,2567,Naz?m Medya,"Bekir Ann?ak, Bedirhan Bar??er, Maksut Kesici",0,1,Türkiye
 A?k Engel Tan?maz,,"Dram, Romantik",Nurettin Özel,06/10/2022,641,19296,Ba?kent film ,"Ömer Aslan, Kardelen Saray, Tevfik Cemal ?nceo?lu",6.1,1,Türkiye
 Örümcek-Adam: Eve Dönü? Yok,Spider-Man: No Way Home,"Macera, Bilim-Kurgu, Aksiyon",Jon Watts,12/17/2021,2882820,76688843," Kevin Feige, Amy Pascal, Matthew Tolmach","Tom Holland, Zendaya, Benedict Cumberbatch",8.2,23,ABD
 H?zl? ve Öfkeli 9,Fast & Furious 9,"Macera, Aksiyon, 3 Boyutlu, IMAX",Justin Lin,07/02/2021,959767,22181752," Vin Diesel, Justin Lin, Samantha Vincent",Justin Lin,5.2,16,ABD
 Aykut Eni?te 2,,Komedi,Onur Bilgetay,12/03/2021,930822,22763563,BKM,"Cem Gelino?lu, Melis Babada?, Lale Ba?ar",6.5,17,Türkiye
-Venom: Zehirli O?fke 2,Venom: Let There Be Carnage,"Macera, Gerilim, Fantastik, Aksiyon, 3 Boyutlu, IMAX",Andy Serkis,10/15/2021,670294,15348819," Tom Hardy, Kelly Marcel, Avi Arad","Tom Hardy, Woody Harrelson, Michelle Williams",5.9,12,ABD
+"Venom: Zehirli O?fke 2
+","Venom: Let There Be Carnage
+","Macera, Gerilim, Fantastik, Aksiyon, 3 Boyutlu, IMAX",Andy Serkis,10/15/2021,670294,15348819," Tom Hardy, Kelly Marcel, Avi Arad","Tom Hardy, Woody Harrelson, Michelle Williams",5.9,12,ABD
 Akif,,"Tarihi, Biyografi",Sadullah ?entürk,09/26/2021,686416,6872428,HT Yap?m,"Yavuz Bingöl, Murat Han, Fikret Ku?kan",3,34,Türkiye
-Dune: Çöl Gezegeni,Dune,"Macera, Bilim-Kurgu, Dram, 3 Boyutlu, IMAX",Denis Villeneuve,10/22/2021,616246,16258560," Mary Parent, Cale Boyter, Joe Caracciolo","Timothée Chalamet, Zendaya, Rebecca Ferguson",8,14,ABD
+Dune: Çöl Gezegeni,Dune,"Macera, Bilim-Kurgu, Dram, 3 Boyutlu, IMAX",Denis Villeneuve,10/22/2021,616246,16258560," Mary Parent, Cale Boyter, Joe Caracciolo","Timothée Chalamet, Zendaya, Rebecca Ferguson
+
+",8,14,ABD
 Day?: Bir Adam?n Hikâyesi,,"Macera, A?k, Dram",U?ur Bayraktar,12/10/2021,476644,10927010,"Ubay Film, Zyef Film","Ufuk Bayraktar, Gizem Karaca Ekmekçi, Ahmet Varl?",6,19,Türkiye
 Eternals,Eternals,"Macera, Dram, Aksiyon, 3 Boyutlu",Chloé Zhao,11/05/2021,379295,9172554,Kevin Feige,"Angelina Jolie, Gemma Chan, Salma Hayek",6.3,7,ABD
 Black Widow,Black Widow,"Macera, Bilim-Kurgu, Aksiyon, 3 Boyutlu",Cate Shortland,07/09/2021,363589,8723859,Kevin Feige,"Scarlett Johansson, Florence Pugh, David Harbour",6.7,13,ABD
@@ -740,7 +432,7 @@ Patron Bebek 2: Aile ?irketi,The Boss Baby: Family Business,"Komedi, Animasyon, 
 The Matrix Resurrections,The Matrix Resurrections,"Bilim-Kurgu, Aksiyon",Lana Wachowski,12/24/2021,506162,14536143,"Warner Bros. Pictures, Village Roadshow Pictures","Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II",5.7,8,ABD
 Enkanto: Sihirli Du?nya,Encanto,"Animasyon, 3 Boyutlu","Jared Bush, Byron Howard, Charise Castro Smith",11/26/2021,343984,7971361,"Clark Spencer, Yvett Merino","Begüm Günceler, Zeyno Burcu Temel, Volkan Severcan",7.2,19,ABD
 Luka,luca,"Macera, Animasyon, Aile, 3 Boyutlu",Enrico Casarosa,09/03/2021,274133,6092570,Andrea Warren,"Jacob Tremblay, Jack Dylan Grazer, Emma Berman",7.4,20,ABD
-Ölmek ?çin Zaman Yok,No Time To Die,"Macera, Aksiyon, 3 Boyutlu, IMAX",Cary Joji Fukunaga,10/01/2021,241243,6810090,"Barbara Broccoli , Michael G. Wilson.","Daniel Craig, Rami Malek, Léa Seydoux",7.3,9,"ABD, Birle?ik Krall?k"
+Ölmek ?çin Zaman Yok,No Time To Die,"Macera, Aksiyon, 3 Boyutlu, IMAX",Cary Joji Fukunaga,10/01/2021,241243,6810090,"Barbara Broccoli , Michael G. Wilson.","Daniel Craig, Rami Malek, Léa Seydoux",7.3,9,"ABD, B?RLE??K KRALLIK"
 Shang-Chi ve On Halka Efsanesi,Shang-Chi and the Legend of the Ten Rings,"Macera, Aksiyon, 3 Boyutlu",Destin Daniel Cretton,09/03/2021,238024,6013046,Kevin Feige,"Simu Liu, Tony Chiu-Wai Leung, Awkwafina",7.4,11,ABD
 Hep Yek 4: Bela Okuma Altan,,Komedi,Özgür Bakar,10/15/2021,225012,4721823,2506 yap?m,"Önder Aç?kba?, Y?ld?r?m Memi?o?lu, Serdal Genç",2.7,13,Türkiye
 Addams Ailesi 2,The Addams Family 2,Animasyon,"Greg Tiernan, Conrad Vernon, Kevin Pavlovic",11/12/2021,212456,4489727," Gail Berman, Conrad Vernon, Danielle Sterling","Oscar Isaac, Charlize Theron, Chloë Grace Moretz",5.4,8,ABD
@@ -749,9 +441,9 @@ The Suicide Squad: ?ntihar Timi,The Suicide Squad,"Macera, Komedi, Suç, Aksiyon"
 Gerçek Kahraman,Free Guy,"Macera, Komedi, Aksiyon, 3 Boyutlu",Shawn Levy,08/13/2021,147837,3769311," Ryan Reynolds, Shawn Levy, Sarah Schechter","Ryan Reynolds, Jodie Comer, Joe Keery",7.1,10,ABD
 Korku Seans? 3: Katil ?eytan,The Conjuring: The Devil Made Me Do It,"Korku, Gizem, IMAX",Michael Chaves,07/09/2021,134290,3087290," Peter Safran,James Wan","Vera Farmiga, Patrick Wilson, Julian Hilliard",6.3,10,ABD
 Ar?nma Gecesi: Sonsuza Dek,The Forever Purge,"Korku, Gerilim, Bilim-Kurgu, Aksiyon",Everardo Gout,07/23/2021,127827,2933530,"Jason Blum, Michael Bay, Andrew Form","Ana de la Reguera, Tenoch Huerta, Josh Lucas",5.4,8,ABD
-15/07 ?afak Vakti,,"Dram, Sava?",A. Volkan Kocatürk,07/15/2021,120706,2031049,Rafadan Hayat Film,"Erkan Petekkaya, Baran Bölükba??, Tugay Mercan",1.1,12,Türkiye
+15/07 ?afak Vakti,,"Dram, Sava?",A. Volkan Kocatürk,07/15/2021,120706,2031049,Rafadan Hayat Film,"Erkan Petekkaya, Baran Bölükba??, Tugay Mercan",1.1,12,TÜRK?YE
 Crood'lar 2: Yeni Bir Ça?,The Croods: A New Age,"Animasyon, 3 Boyutlu",Joel Crawford,08/13/2021,104760,2271394,Mark Swift,"Nicolas Cage, Emma Stone, Ryan Reynolds",6.9,9,ABD
-?ntikam Vakti,Wrath of Man,"Gerilim, Suç, Aksiyon, IMAX",Guy Ritchie,11/26/2021,104293,2508125, James B. Harris,"Jason Statham, Holt McCallany, Josh Hartnett",7.1,5,"ABD, Birle?ik Krall?k"
+?ntikam Vakti,Wrath of Man,"Gerilim, Suç, Aksiyon, IMAX",Guy Ritchie,11/26/2021,104293,2508125, James B. Harris,"Jason Statham, Holt McCallany, Josh Hartnett",7.1,5,"ABD, B?RLE??K KRALLIK"
 Ma?a ile Koca Ay? 4,Masha And The Bear: Masha's Songs,Animasyon,Roly Gutiérrez,12/17/2021,135197,3011534,Animaccord Animation Studio,"Boris Kutnevich, ?dil Küner, Do?ukan Manço",5,12,Rusya
 Sessiz Bir Yer 2,A Quiet Place Part II,"Korku, Gerilim, IMAX",John Krasinski,07/16/2021,98765,2287742,"Emily Blunt, John Krasinski","Emily Blunt, Cillian Murphy, Noah Jupe",7.2,8,ABD
 Robot Ron Bir Sorun Var,Ron's Gone Wrong,"Animasyon, 3 Boyutlu","Alessandro Carloni, Jean-Philippe Vine",10/22/2021,95368,2051269,"Julie Lockhart, Lara Breay","Jack Dylan Grazer, Zach Galifianakis, Ed Helms",7,8,ABD
@@ -874,7 +566,7 @@ Azubel,,"Korku, Gerilim",Fatih Gülayd?n,09/17/2021,2682,50106,Apollon Film ,"Mer
 Ba?l?l?k Hasan,,"Aile, Dram",Semih Kaplano?lu,12/03/2021,2365,51878,Sinehane,"Umut Karada?, Filiz Bozok, Gökhan Azla?",6.5,3,Türkiye
 Tam Sana Göreyim, I'm Your Man,"Bilim-Kurgu, Romantik-Komedi",Maria Schrader,11/05/2021,2383,44987,Filmart?,"Maren Eggert, Dan Stevens, Sandra Hüller",7.1,3,Almanya
 Fanteziler,"Les Fantasmes, Fantasies",Komedi,"David Foenkinos, Stéphane Foenkinos",10/15/2021,2277,51570,GAUMONT S.A,"Denis Podalydès, Suzanne Clément, Monica Bellucci",5.4,4,Fransa
-Yeni Düzen, New Order,"Gerilim, Dram, Suç",Michel Franco,10/29/2021,2324,47523, Michel Franco,"Naian González Norvind, Fernando Cuautle, Diego Boneta",6.5,5,"Fransa, Meksika"
+Yeni Düzen, New Order,"Gerilim, Dram, Suç",Michel Franco,29092021,2324,47523, Michel Franco,"Naian González Norvind, Fernando Cuautle, Diego Boneta",6.5,5,"Fransa, Meksika"
 Av,,Gerilim,Emre Akay,10/01/2021,2205,46764,"Jaguar Projects, Darlingo Pictures","Billur Melis Koç, Ahmet R?fat ?ungar, Ya??z Can Konyal?",5.3,4,Türkiye
 Bir Nefes Daha,,Dram,Nisan Da?,09/24/2021,2239,45495,Ba?ka Sinema,"Oktay Çubuk, Hayal Köseo?lu, Ushan Çak?r",5.6,8,Türkiye
 Fazla ?aapma,,Komedi,Ahmet Kapucu,11/05/2021,2039,43575,Sonkare Medya,"Ömür Özdemir, Hakan Meriçliler, F?rat Albayram",5.4,2,Türkiye
@@ -954,11 +646,13 @@ Nasipse Olur,,Romantik-Komedi,Selahattin Sancakl?,02/14/2020,73279,828995,Greena
 The Gentlemen,The Gentlemen,"Suç, Aksiyon",Guy Ritchie,02/14/2020,68842,1615018,"Guy Ritchie, Ivan Atkinson, Bill Block","Matthew McConaughey, Charlie Hunnam, Michelle Dockery",7.8,14,ABD
 Bloodshot: Durdurulamaz Güç,Bloodshot,"Fantastik, Dram, Aksiyon",Dave Wilson,03/13/2020,62804,1119123,"Neal H. Moritz, Toby Jaffe, Dinesh Shamdasani","Vin Diesel, Eiza González, Sam Heughan",5.7,7,ABD
 Ajanlar ?? Ba??nda,Spies in Disguise,Animasyon,"Troy Quane, Nick Bruno",01/10/2020,57927,1076253,Blue Sky Studios,"Will Smith,Tom Holland, Rashida Jones",6.8,9,ABD
-B?çaklar Çekildi,Knives Out,"Komedi, Suç",Rian Johnson,01/10/2020,56987,1198199,Rian Johnson ,"Daniel Craig, Chris Evans, Ana de Armas",7.9,11,ABD
+B?çaklar Çekildi,Knives Out,"Komedi, Suç",Rian Johnson,01/10/2020,"56.987
+",1198199,Rian Johnson ,"Daniel Craig, Chris Evans, Ana de Armas",7.9,11,ABD
 Nuh Tepesi,,Dram,Cenk Ertürk,03/06/2020,53118,929406,Us Film,"Ali Atay, Haluk Bilginer, Hande Do?andemir",7.1,11,Türkiye
 Feride,,Komedi,"Zeynep Çamc?, Ali Yorganc?o?lu",01/24/2020,46424,810116,Ung Media,"Zeynep Çamc?, Ersin Korkut, Bar?? Y?ld?z",1.9,4,Türkiye
 Kuzular Firarda: Uzay Park?,Shaun the Sheep Movie: Farmageddon,"Macera, Komedi, Animasyon","Richard Phelan, Will Becher",01/17/2020,53747,868552,Aardman Animations ,"Justin Fletcher, Kate Harbour, David Holt",6.8,41,"ABD, Birle?ik Krall?k, Fransa"
-Scoob!,,"Komedi, Animasyon",Tony Cervone,09/18/2020,43843,797699,"Hanna-Barbera, 1492 Pictures, Warner Animation Group","Frank Welker, Amanda Seyfried, Will Forte",5.6,10,ABD
+Scoob!,,"Komedi, Animasyon",Tony Cervone,09/18/2020,43843,797699,"Hanna-Barbera, 1492 Pictures, Warner Animation Group","Frank Welker, Amanda Seyfried, Will Forte
+",5.6,10,ABD
 Hayal Adas?,Fantasy Island,Korku,Jeff Wadlow,03/06/2020,42793,87677,"Jason Blum, Jeff Wadlow","Maggie Q, Michael Pena, Lucy Hale",4.9,2,ABD
 Yar?mada,"Peninsula, Train to Busan 2","Gerilim, Aksiyon",Sang-ho Yeon,10/02/2020,40779,813823,Next Entertainment World,"Dong-Won Gang, Jung-hyun Lee, Daniel Joey Albright",5.5,8,Güney Kore
 Macerac? Yüzgeçler: Büyük Gösteri,,Animasyon,Mithat Gökçe,01/24/2020,43384,697365,Minika,"Pelin Gülmez, Nihan Omuz, Begüm Günceler",4.3,23,Türkiye
@@ -967,7 +661,8 @@ Efsunlu Ayin,,Korku,U?ur Kaplan,02/21/2020,33881,504771,Enis Özkan Film,"Eylül E
 Aile Hükümeti,,Komedi,Burak Demirdelen,10/09/2020,33604,621664,RNK Film,"Mehmet Y?ld?r?m, Asl?han Malbora, Alper Sald?ran",3.4,9,Türkiye
 ?ki Gözüm Ahmet,,"Dram, Biyografi","Gani Rüzgar ?avata, Hüsnü Hakan Gürtop",11/13/2020,63230,1283137,X Yap?m,"Özgür Tüzer, Aleyna Solaker, Serdar Orçin",2.5,11,Türkiye
 Küçük Kad?nlar,Little Women,Dram,Greta Gerwig,02/14/2020,29405,708157,"Amy Pascal, Denise Di Novi, Robin Swicord","Saoirse Ronan, Emma Watson, Florence Pugh",7.8,5,ABD
-Yeni Mutantlar,The New Mutants,"Korku, Bilim-Kurgu, Aksiyon",Josh Boone,09/11/2020,29324,546524,"Lauren Shuler Donner, Simon Kinberg","Maisie Williams, Anya Taylor-Joy, Charlie Heaton",5.3,12,ABD
+Yeni Mutantlar,The New Mutants,"Korku, Bilim-Kurgu, Aksiyon",Josh Boone,09/11/2020,29324,546524,"Lauren Shuler Donner, Simon Kinberg
+","Maisie Williams, Anya Taylor-Joy, Charlie Heaton",5.3,12,ABD
 Kiki: Lanet-i Cin,,Korku,Mustafa Miraç Kaya,02/14/2020,29005,482807,Ema Yap?m,"Türkan K?l?ç, Ya?ar Ayd?nl?o?lu, Mustafa Miraç Kaya",3.4,5,Türkiye
 Polaroid,,"Korku, Gerilim, Gizem",Lars Klevberg,10/16/2020,26689,511127,"Lars Klevberg, Roy Lee, Chris Bender","Kathryn Prescott, Tyler Young, Samantha Logan",5.1,6,"ABD, Kanada"
 Süper Ajanlar,Spycies,"Komedi, Animasyon, Aksiyon","Zhiyi Zhang, Guillaume Ivernel",02/07/2020,31738,552971,"Zhang Zhiyi, Benoit Luce, Qinshu Zuo","Harun Can, Ali Çorapç?, Hakan Ak?n",5.5,32,"Çin, Fransa"
@@ -988,9 +683,12 @@ Tav?an Jojo,Jojo Rabbit,"Komedi, Dram, Sava?",Taika Waititi,01/31/2020,15240,375
 After Paramparça,After We Collided,"Dram, Romantik",Roger Kumble,09/18/2020,13835,279852,Chantier,"Josephine Langford, Hero Fiennes Tiffin, Louise Lombard",5,9,ABD
 Vah?etin Ça?r?s?,The Call of the Wild,"Macera, Aile",Chris Sanders,02/21/2020,13264,281145,20th Century Studios,"Harrison Ford, Karen Gillan, Bradley Whitford",6.7,4,ABD
 Ölü Nöbeti,The Vigil,Korku,Keith Thomas,10/09/2020,13228,254921,Alex Peace,"Dave Davis, Menashe Lustig, Malky Goldman",5.8,5,ABD
-Bedenimi Kaybettim,"J'ai perdu mon corps, I Lost My Body","Animasyon, Dram",Jérémy Clapin,01/17/2020,14371,226001,"Marc du Pontavice, Camille Wiplier, Lucie Bolze","Dev Patel, Victoire Du Bois, Alia Shawkat",7.5,15,Fransa
+Bedenimi Kaybettim,"J'ai perdu mon corps, I Lost My Body","Animasyon, Dram",Jérémy Clapin,01/17/2020,14371,226001,"Marc du Pontavice, Camille Wiplier, Lucie Bolze
+","Dev Patel, Victoire Du Bois, Alia Shawkat",7.5,15,Fransa
 Ormandaki Cad?,Witches in the Woods,"Korku, Gerilim, Gizem",Jordan Barker,09/25/2020,12769,236879,"Jordan Barker, Borga Dorter","Hannah Kasulka, Craig Arnold, Sasha Clements",4.3,6,Kanada
-47 Metre Derinde: Kafes,47 Meters Down: Uncaged,"Korku, Macera",Johannes Roberts, 7.08. 2020,12400,226752,"Mark Lane, Robert Jones, James Harris","Sophie Nélisse, Corinne Foxx, Brianne Tju",5,12,"ABD, Birle?ik Krall?k"
+47 Metre Derinde: Kafes,47 Meters Down: Uncaged,"Korku, Macera",Johannes Roberts," 7.08. 2020
+
+",12400,226752,"Mark Lane, Robert Jones, James Harris","Sophie Nélisse, Corinne Foxx, Brianne Tju",5,12,"ABD, Birle?ik Krall?k"
 Sefiller,Les Misérables,Dram,Ladj Ly,01/31/2020,12223,174847,"Toufik Ayadi, Christophe Barral, Michel Merkt","Damien Bonnard, Alexis Manenti, Djibril Zonga",7.6,5,Fransa
 Sabit Kanca: Son Soru,,Komedi,Nuri Y?ld?z,03/06/2020,11907,196242,Filmod Yap?m,"?smail Baki Tuncer, F?rat Sobutay, Zerrin Sümer",4.2,4,Türkiye
 Hadi Gidelim,Onward,"Animasyon, 3 Boyutlu",Dan Scanlon,09/11/2020,11747,216502,Kori Rae,"Chris Pratt, Tom Holland, Octavia Spencer",7.4,13,ABD
@@ -1126,7 +824,8 @@ Cinayet Süsü,,"Komedi, Suç, Polisiye",Ali Atay,10/25/2019,824177,15971864,TAFF,"
  Aslan Kral,The Lion King,"Macera, Aile, Dram, 3 Boyutlu",Jon Favreau,07/19/2019,768340,14362039,Don Hahn,"Harun Can, Tamer Karada?l?, Begüm Günceler",6.8,12,ABD
 Oyuncak Hikayesi 4,,"Macera, Aile, Dram, 3 Boyutlu",Jon Favreau,06/20/2019,714390,11693963,Josh Cooley,Carl Weathers,7.7,15,ABD
  Karakomik Filmler,,Komedi,Cem Y?lmaz,10/18/2019,700519,13390936,"CMYLMZ Fikirsanat, NuLook","Cem Y?lmaz, Zafer Algöz, Özkan U?ur",6.4,8,Türkiye
-Ejderhan? Nas?l E?itirsin 3: Gizli Dünya,How to Train Your Dragon: The Hidden World,"Animasyon, 3 Boyutlu",Dean DeBlois,01/25/2019,695841,9854620,"Bonnie Arnold,Brad Lewis","Jay Baruchel,Jonah Hill,Christopher Mintz-Plasse",7.4,12,ABD
+Ejderhan? Nas?l E?itirsin 3: Gizli Dünya,How to Train Your Dragon: The Hidden World,"Animasyon, 3 Boyutlu",Dean DeBlois,01/25/2019,695841,9854620,"Bonnie Arnold,Brad Lewis
+","Jay Baruchel,Jonah Hill,Christopher Mintz-Plasse",7.4,12,ABD
 Ralph ve ?nternet - Oyunbozan Ralph 2,Ralph Breaks the Internet,Animasyon,"Rich Moore, Phil Johnston",01/11/2019,687209,9386807,Clark Spencer,Ming-Na Wen,7,9,ABD
 Öldür Beni Sevgilim,,Romantik-Komedi,?enol Sönmez,03/01/2019,669919,9801558,BKM,"Murat Boz, Seda Bakan, Özgür Emre Y?ld?r?m",4.4,11,Türkiye
 Türk ??i Dondurma,,"Dram, Tarihi, Sava?",Can Ulkay,03/15/2019,571758,7845651,Dijital Yap?m Evi,"Ali Atay, Erkan Kolçak Köstendil, ?ebnem Bozoklu",6.4,16,Türkiye
@@ -1135,7 +834,8 @@ Hep Yek 3 Titrettin Beni,,Komedi,Özgür Bakar,02/15/2019,526828,7842461,2506,"Gök
 Bir A?k ?ki Hayat,,Dram,"Engin Akyürek, Bergüzar Korel, ?pek Bilgin",02/15/2019,523231,8075358,"Ay Yap?m, Med Yap?m","Engin Akyürek, Bergüzar Korel, ?pek Bilgin",6.1,6,Türkiye
 Enes Batur Gerçek Kahraman,,Komedi,Do?a Can Anafarta,05/31/2019,520826,7354469,"Eren Medya, TN Yap?m","Enes Batur, Ömer Ba?do?an, Altan Erkekli",1.4,7,Türkiye
 Siccin 6,,Korku,Alper Mestçi,08/09/2019,451410,7159336,Muhte?em Film,"Merve Ate?, Adnan Koç, Dilara Büyükbayraktar",5.1,23,Türkiye
-O Bölüm 2,It: Chapter Two,"Korku, 3 Boyutlu, IMAX",Andy Muschietti,09/06/2019,404106,7381630,"Barbara Muschietti,Roy Lee,Dan Lin","Bill Skarsgård, Jessica Chastain, James McAvoy",6.5,8,"ABD, Kanada"
+O Bölüm 2,It: Chapter Two,"Korku, 3 Boyutlu, IMAX","Andy Muschietti
+",09/06/2019,404106,7381630,"Barbara Muschietti,Roy Lee,Dan Lin","Bill Skarsgård, Jessica Chastain, James McAvoy",6.5,8,"ABD, Kanada"
 Bir Zamanlar... Hollywood'da,Once Upon a Time In Hollywood,"Gerilim, Dram, Suç",Quentin Tarantino,08/23/2019,386909,7978380," Quentin Tarantino,David Heyman, Shannon McIntosh","Leonardo DiCaprio, Brad Pitt, Margot Robbie",7.6,8,ABD
 Evcil Hayvanlar?n Gizli Ya?am? 2,The Secret Life of Pets 2,"Animasyon, 3 Boyutlu","Chris Renaud, Jonathan del Val",06/05/2019,375793,5936675," Chris Meledandri, Janet Healy","Patton Oswalt, Eric Stonestreet, Kevin Hart",6.4,11,ABD
 Aman Reis Duymas?n,,Komedi,Onur Tan,12/13/2019,404996,6856248,Sinehane,"Mustafa Üstünda?, Ozan Akbaba, Emir Benderlio?lu",4.3,12,Türkiye
@@ -1209,23 +909,26 @@ Asteriks: Sihirli ?ksirin S?rr?,Astérix: Le secret de la potion magique,Animasyo
 Natalie Altmann,,"Komedi, Aile",Mustafa Kotan,08/09/2019,68415,641231,Hann Yap?m,"Emir Özyak???r, Ayça Erturan, Ferit Aktu?",3.9,18,Türkiye
 Kod Ad?: Angel,Angel Has Fallen,"Gerilim, Dram, Aksiyon",Ric Roman Waugh,08/23/2019,62722,1200847," Gerard Butler, John Thompson, Alan Siegel","Gerard Butler, Morgan Freeman, Piper Perabo",6.4,8,ABD
 Kuzular Kurtlara Kar?? 2,"Volki i ovtsy. Khod sviney, Sheep and Wolves 2","Animasyon, 3 Boyutlu",Vladimir Nikolaev,03/22/2019,61034,955761," Vladimir Nikolaev, Yuriy Moskvin, Sergey Selyanov"," Alexander Petrov (II), Sergey Bezrukov, Elizaveta Boyarskaya",5.1,12,Rusya
-Van Gogh: Sonsuzlu?un Kap?s?nda,At Eternity's Gate,"Dram, Biyografi",Julian Schnabel,02/15/2019,60910,859530,"Jon Kilik, Charles-Marie Anthonioz","Willem Dafoe, Rupert Friend, Oscar Isaac",6.9,23,"ABD, Birle?ik Krall?k, Fransa, ?rlanda, ?sviçre"
+Van Gogh: Sonsuzlu?un Kap?s?nda,At Eternity's Gate,"Dram, Biyografi",Julian Schnabel, 15 ?ubat 2019,60910,859530,"Jon Kilik, Charles-Marie Anthonioz","Willem Dafoe, Rupert Friend, Oscar Isaac",6.9,23,"ABD, Birle?ik Krall?k, Fransa, ?rlanda, ?sviçre"
 BTS World Tour: Love Yourself in Seoul,,"Belgesel, Konser, Müzik",Son Sung-deuk,01/26/2019,60437,1090893,Big Hit Entertainment,"BTS, J-Hope, Jeong-guk Jeon",9.0,3,Güney Kore
-Alem-i Cin 2,,"Korku, Gerilim",Özgür Bakar,05/03/2019,58750,901583,Film Fabrikas?,"Ali Kaan Serez, Bekir Behrem, Sava? Barutçu",3.9,4,Türkiye
+Alem-i Cin 2,,"Korku, Gerilim",Özgür Bakar, 3 May?s 2019,"
+58.750",901583,Film Fabrikas?,"Ali Kaan Serez, Bekir Behrem, Sava? Barutçu",3.9,4,Türkiye
 Cinnet,,Korku,Aytekin Birkon,06/14/2019,57537,848886,TAFF,"Yeliz Akkaya, Emre Ba?er, Nicholas Facey",3.3,5,Türkiye
-?uursuz A?k,,Dram,Umut Ertek,12/27/2019,76251,1374752,?eddadi Yap?m,"?smail Hac?o?lu, Ebru ?ahin, Burcu Kara",6,7,Türkiye
+?uursuz A?k,,Dram,Umut Ertek, 27 Aral?k 2019,"
+76.251",1374752,?eddadi Yap?m,"?smail Hac?o?lu, Ebru ?ahin, Burcu Kara",6,7,Türkiye
 Rambo: Son Kan,Rambo: Last Blood,"Macera, Aksiyon",Adrian Grunberg,09/20/2019,54244,937918," Kevin King Templeton, Avi Lerner, Yariv Lerner","Sylvester Stallone, Paz Vega, Yvette Monreal",6.1,4,ABD
 Efsunlu - Kabirden Gelen,,Korku,U?ur Kaplan,07/05/2019,54044,804314,Enis Özkan Film,"Sedef ?ahin, Reyhan ?lhan, Elif Kartal",3.5,6,Türkiye
 Doktor Uyku,Doctor Sleep,"Korku, Gerilim",Mike Flanagan,11/22/2019,50452,944551,"Stephen King, Trevor Macy, Jon Berg","Ewan McGregor, Rebecca Ferguson, Kyliegh Curran",7.3,4,ABD
 Cin Azab?,,Korku,Onur Aldo?an,09/13/2019,49400,741512,"Cinemoon Film, CNS","Aydan Akbo?a, Yal?n Cengiz, Nalan Olcayalp",2.4,7,Türkiye
 Rambo: Son Kan,Rambo: Last Blood,"Macera, Aksiyon",Adrian Grunberg,09/20/2019,54244,937918,"Kevin King Templeton, Avi Lerner, Yariv Lerner,","Sylvester Stallone, Paz Vega, Yvette Monreal",6.1,4,ABD
 Sesinde A?k Var,,"Gençlik, Romantik",Osman Ta?ç?,08/16/2019,48855,735834,Limon Film,"Burak Tozkoparan, Hayal Köseo?lu, Gizem Güne?",4.5,5,Türkiye
-Luis ve Uzayl? Dostlar?,Luis and the Aliens,Luis and the Aliens,"Christoph Lauenstein, Wolfgang Lauenstein",08/02/2019,53623,806568," Emely Christians, Christine Parisse, Anders Mastrup","Callum Maloney, Dermot Magennis, Ian Coppinger",6,25,"Almanya, Danimarka, Lüksemburg"
+Luis ve Uzayl? Dostlar?,Luis and the Aliens,Luis and the Aliens,"Christoph Lauenstein, Wolfgang Lauenstein",08/02/2019,"
+53.623",806568," Emely Christians, Christine Parisse, Anders Mastrup","Callum Maloney, Dermot Magennis, Ian Coppinger",6,25,"Almanya, Danimarka, Lüksemburg"
 Saray?n Gözdesi,The Favourite,Dram,Yorgos Lanthimos,02/08/2019,47732,863699,"Yorgos Lantimos, Ed Guiney, Ceci Dempsey,","Olivia Colman, Rachel Weisz, Emma Stone",7.5,7,"ABD, Birle?ik Krall?k, ?rlanda"
 Kulyas: Lanetin Bedeli,,Korku,Yunus ?evik,05/10/2019,46200,659328,Dras Film Pictures,"Halil Kumova, Kübra K?l?nçkaya, Nurdan Paksoy",3.4,10,Türkiye
 Acemi Ka?ifler: Görevimiz Kocaayak,Mission Kathmandu: The Adventures of Nelly & Simon,"Macera, Komedi, Animasyon","Pierre Greco, Nancy Florence Savard",05/24/2019,44891,610634," Nancy Florence Savard, Geneviève Savard"," Nancy Florence Savard, Geneviève Savard",5.1,13,Kanada
-Midway,,"Dram, Sava?, Aksiyon",Roland Emmerich,11/29/2019,44544,903983,"Roland Emmerich, Harald Kloser","Ed Skrein, Patrick Wilson, Luke Evans",6.7,6,"ABD, Çin"
-Bring The Soul: The Movie,,"Belgesel, Müzik",Park Jun-Soo,08/07/2019,42476,733421,Hybe Corporation,"RM, Jin, Suga",8.4,3,Güney Kore
+Midway,,"Dram, Sava?, Aksiyon",Roland Emmerich, 29 Kas?m 2019,44544,903983,"Roland Emmerich, Harald Kloser","Ed Skrein, Patrick Wilson, Luke Evans",6.7,6,"ABD, Çin"
+Bring The Soul: The Movie,,"Belgesel, Müzik",Park Jun-Soo, 7 A?ustos 2019,42476,733421,Hybe Corporation,"RM, Jin, Suga",8.4,3,Güney Kore
 Kefernahum,Capharnaüm,Dram,Nadine Labaki,01/25/2019,41399,503926,"Khaled Mouzanar, Michel Merkt","Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",8.4,30,"ABD, Lübnan"
 Ritüel,Midsommar,"Korku, Dram, Gizem",Ari Aster,07/26/2019,40832,747347,Patrik Andersson; Lars Knudsen,"Florence Pugh, Will Poulter, Jack Reynor",7.1,15,ABD
 Kap?,,Dram,Nihat Durak,04/12/2019,41328,631778,"TAFF, Durak Film","Kadir ?nan?r, Vahide Perçin, Timur Acar",6.9,5,Türkiye
@@ -1308,12 +1011,13 @@ Elfland - Yeni Y?l Dedektifleri,Elfland,Animasyon,Logan Spence,12/20/2019,13691,
 Mucize U?ur Böce?i,The Ladybug,Animasyon,Ding Shi,02/08/2019,12868,153123,"Barry Brooker , Stan Wertlieb ,","Haylie Duff, Jon Heder, Norm Macdonald",4.6,10,Çin
 Meteler,,"Sava?, Aksiyon",Burak Akyol,04/19/2019,12856,198322,Jineps Yap?m,"Gökhan Mumcu, Serhan Çeliker, Temmuz Gürkan Karaca",4.2,4,Türkiye
 Gölge Sava?ç?,Shadow,"Dram, Sava?, Aksiyon",Yimou Zhang,05/10/2019,12852,223948,"Derek Yee, Ellen Eliasoph","Chao Deng, Li Sun, Ryan Zheng",7,3,Ç?N
-Söz Vermi?tin,,"A?k, Dram",Baran Seyhan,11/15/2019,12750,225411,Sarma??k Sanatlar,"Emre Karayel, Asl? Tando?an, ?enay Gürler",,1,Türkiye
-S?n?r,"Gräns, Border","A?k, Fantastik, Dram",Ali Abbasi,05/24/2019,164158,164158,"Nina Bisgaard, Peter Gustafsson, Petra Jonsson","Eva Melander, Eero Milonoff, Jörgen Thorsson",7,8,"Danimarka, ?sveç"
-Kim Daha Mutlu?,,"Komedi, Aile",Hakan Haksun,08/24/1933,178400,178400,BSK Yap?m,"Ecem Özkaya Üstünda?, Emre K?v?lc?m, Hasan Denizyaran",,2,Türkiye
+Söz Vermi?tin,,"A?k, Dram",Baran Seyhan,11/15/2019,12750,225411,Sarma??k Sanatlar,"Emre Karayel, Asl? Tando?an, ?enay Gürler",,1,türkiye
+S?n?r,"Gräns, Border","A?k, Fantastik, Dram",Ali Abbasi, 24 May?s 2019,164158,164158,"Nina Bisgaard, Peter Gustafsson, Petra Jonsson","Eva Melander, Eero Milonoff, Jörgen Thorsson",7,8,"Danimarka, ?sveç"
+Kim Daha Mutlu?,,"Komedi, Aile",Hakan Haksun,08/24/1933,178400,178400,BSK Yap?m,"Ecem Özkaya Üstünda?, Emre K?v?lc?m, Hasan Denizyaran",,2,TÜRK?YE
 Yang?n Yeri,Wildlife,Dram,Paul Dano,01/04/2019,12252,197321,"Andrea Queralt, Mani Mortazavi, Xavi Font","Jake Gyllenhaal, Carey Mulligan, Ed Oxenbould",6.8,7,ABD
 ?stila Alt?nda,Captive State,"Gerilim, Bilim-Kurgu",Rupert Wyatt,03/15/2019,11879,214544,"Rupert Wyatt, David Crockett","Vera Farmiga, John Goodman, Madeline Brewer",6,3,ABD
-Görülmü?tür,,Dram,Serhat Karaaslan,09/20/2019,12110,160577,Film Yap?m,"Berkay Ate?, Saadet I??l Aksoy, ?pek Türktan Kaynak",6,24,"Türkiye, Almanya, Fransa"
+Görülmü?tür,,Dram,Serhat Karaaslan,09/20/2019,"
+12.110",160577,Film Yap?m,"Berkay Ate?, Saadet I??l Aksoy, ?pek Türktan Kaynak",6,24,"Türkiye, Almanya, Fransa"
 A?ktan Kaç?lmaz,"Juliet, Naked","Romantik-Komedi, Dram, Müzik",Jesse Peretz,03/29/2019,11597,200258,"Albert Berger, Ron Yerxa, Judd Apatow,","Chris O'Dowd, Rose Byrne, Ethan Hawke",6.6,8,"ABD, Birle?ik Krall?k"
 13.CUMA,The 13th Friday,Korku,Justin Price,06/21/2019,11198,173520,Vi?ne Prodüksiyon,"Lisa May, Melissa L. Vega, Victoria Valdez",2.6,3,ABD
 ?ampiyonlar,Campeones,"Komedi, Dram, Spor",Javier Fesser,05/03/2019,11191,152950,"Alvaro Longoria, Luis Manso,","Javier Gutiérrez, Athenea Mata, Juan Margallo",7.2,5,?spanya
@@ -1377,7 +1081,7 @@ Saklambaç,Ready or Not,"Korku, Komedi, Gizem","Matt Bettinelli-Olpin, Tyler Gill
 Yuvaya Dönü?,,"Aile, Dram",M. Hakan Kur?un,07/12/2019,5913,91677,Mac Ajans,"Burhan Öcal, Furkan Palal?, Megumi Masaki",7.7,2,Türkiye
 Cehennem Gecesi,Burn,Gerilim,Mike Gan,09/13/2019,5894,90186," Jordan Beckerman , Sukee Chew , Ash Christian ","Tilda Cobham-Hervey, Suki Waterhouse, Josh Hutcherson",5.7,2,ABD
 Online Vah?et,Framed,Korku,Marc Martínez Jordán,08/23/2019,5854,91198,Marc Martínez Jordán,"Daniel Horvath, Alex Maruny, Júlia Molins",4.5,2,?spanya
-Rahibenin Laneti,Curse of the Nun,Korku,Aaron Mirtes,12/06/2019,5836,119169,"Julio Fernandez , Brian Yuzna","Lacy Hartselle, Kate Kilcoyne, Rae Hunt",2.8,2,ABD
+Rahibenin Laneti,Curse of the Nun,Korku,Aaron Mirtes, 6 Aral?k 2019,5836,119169,"Julio Fernandez , Brian Yuzna","Lacy Hartselle, Kate Kilcoyne, Rae Hunt",2.8,2,ABD
 Hayvanat Bahçesi,Zoo Wars 2,Animasyon,"Evan Tramel, James Snider",09/20/2019,5790,97565,"Wally Atkins, Lee O Shea","Bobbi Maxwell, Maria Petrano, Thomas Freeley",1.4,2,ABD
 E? Anlaml?lar,Synonymes,Dram,Nadav Lapid,09/13/2019,6104,77236," Said Ben Said , Michel Merkt","Tom Mercier, Quentin Dolmaire, Louise Chevillotte",6.4,12,"Almanya, Fransa, ?srail"
 Stalker,,"Bilim-Kurgu, Dram",Andrei Tarkovsky,06/14/2019,5762,80816, Aleksandra Demidova,"Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn",8.1,13,Sovyetler Birli?i
@@ -1652,9 +1356,9 @@ Benim Ad?m Osssman,,Komedi,"Banu Kaptano?ullar?, Vedat ?nce",08/17/2018,43296,52
 "Üç Billboard Ebbing Ç?k???, Missouri","Three Billboards Outside Ebbing, Missouri","Komedi, Dram, Suç",Martin McDonagh,02/02/2018,42290,639072,"Martin McDonagh, Graham Broadbent,Peter Czernin","Samara Weaving, Frances McDormand, Woody Harrelson",8.1,7,"ABD, Birle?ik Krall?k"
 Renkli Bal?k Yeni Dünyalar Kâ?ifi,,Animasyon,Burhan Gün,05/04/2018,42699,418969,"Selay Ta?dö?en, Burçin Artut, Burhan Gün","Fikrigün Film, Digiflame",6.9,27,Türkiye
 Prenses ve Ejderha,The Princess and the Dragon,"Animasyon, 3 Boyutlu",Marina Nefedova,11/16/2018,48803,579077,"Vasiliy Rovenskiy, Roman Borisevich, Maxim Rogalsky","Prenses,  Ejderha",4,28,Rusya
-Kâfir,,Korku,Hasan Gökalp,05/25/2018,41406,388486,?gamedya Yay?nc?l?k,"Beyza Metin, Gamze K?rl?, Selim Aygün",2.8,8,Türkiye
+Kâfir,,Korku,Hasan Gökalp,05/25/2018,41406,388486,?gamedya Yay?nc?l?k,"Beyza Metin, Gamze K?rl?, Selim Aygün",2.8,8,türkiye
 Yak???kl? Prens,Charming,Animasyon,Ross Venokur,05/18/2018,41357,515473,John H. Williams,"Demi Lovato, Avril Lavigne, Ashley Tisdale",5.6,12,Kanada
-Bordo Bereliler 2: Afrin,,"Macera, Dram, Aksiyon",Erhan Baytimur,03/23/2018,41283,474749,16 Yap?m Medya,"Çi?dem Batur, O?uz Ya?c?, Balamir Emren",1.5,2,Türkiye
+Bordo Bereliler 2: Afrin,,"Macera, Dram, Aksiyon",Erhan Baytimur,03/23/2018,41283,474749,16 Yap?m Medya,"Çi?dem Batur, O?uz Ya?c?, Balamir Emren",1.5,2,türkiye
 Babam?n Ceketi,,Komedi,Müfit Can Saç?nt?,10/05/2018,41210,517237,Hann Yap?m,"Müfit Can Saç?nt?, Mert Turak, Erkan Can",4.9,4,Türkiye
 Örümcek A??ndaki K?z,The Girl in the Spider's Web,"Gerilim, Dram, Suç",Fede Alvarez,11/30/2018,39998,611322,"Scott Rudin, Amy Pascal, Søren Stærmose","Claire Foy, Sylvia Hoeks, Claes Bang",6.1,3,"ABD, Almanya, Birle?ik Krall?k, ?sveç, Kanada"
 Beni Satan Casus,The Spy Who Dumped Me,"Komedi, Aksiyon",Susanna Fogel,08/10/2018,40742,556682," Brian Grazer, Guy Riedel, Jason Cloth, Erica Huggins","Mila Kunis, Justin Theroux, Kate McKinnon",6,11,ABD
@@ -1693,7 +1397,8 @@ Patrick Ewald,,"Romantik-Komedi, Dram",Ömer U?ur,12/14/2018,23193,320353,Av?ar F
 Arapsaç?,,Komedi,Ömer Faruk Yard?mc?,03/30/2018,22856,271034,Insignia,"Köksal Engür, Ayhan Ta?, Burak Sat?bol",4.2,2,Türkiyr
 Ke?if,,"Macera, Fantastik",A. Volkan Kocatürk,10/19/2018,22535,234979,TFT Yap?m,"Burak Can, Sude Zulal Güler, ?brahim Y?ld?z",6.1,10,Türkiye
 Sevgili Kom?um,,"Gerilim, Dram",A. Taner Elhan,10/19/2018,22151,291657,TN Yap?m,"Selin ?ekerci, Sezin Akba?o?ullar?, Selim Bayraktar",4.7,2,Türkiye
-Karanl?k S?r,Marrowbone,"Korku, Gerilim, Dram",Sergio G. Sánchez,04/06/2018,22124,272577,"Juan Antonio Bayona, Belén Atienza, Ghislain Barrois","George MacKay, Charlie Heaton, Mia Goth",6.7,3,?spanya
+Karanl?k S?r,Marrowbone,"Korku, Gerilim, Dram",Sergio G. Sánchez,04/06/2018,"
+22.124",272577,"Juan Antonio Bayona, Belén Atienza, Ghislain Barrois","George MacKay, Charlie Heaton, Mia Goth",6.7,3,?spanya
 Phantom Thread,,Dram,Paul Thomas Anderson,03/09/2018,22086,361241,"Paul Thomas Anderson, Megan Ellison, Joanne Sellar","Daniel Day-Lewis, Vicky Krieps, Lesley Manville",7.4,7,ABD
 Sibirya,Siberia,"Gerilim, A?k, Suç",Matthew Ross,07/20/2018,22026,289251,"Keanu Reeves, Stephen Hamel, Gabriela Bacher","Keanu Reeves, Molly Ringwald, Ana Ularu",4.3,10,ABD
 Beyaz Di?,"Croc-Blanc, White Fang","Macera, Animasyon",Alexandre Espigares, 17.8.2018,23991,287679,"Clément Calvet, Jérémie Fajner, Lilian Eche"," William Calvert, Joshua M. Cohen, Paul Giamatti",6.9,24,"ABD, Fransa, Lüksemburg"
@@ -1757,7 +1462,9 @@ Ruh Ça??rma Seans?,Ouija House,"Korku, Gerilim",Ben Demaree,12/21/2018,11585,147
 Yabani,Wildling,"Korku, Fantastik",Fritz Böhm,06/22/2018,10313,127106,"Tomas Eskilsson,Rab Butler,Celine Rattray","Bel Powley, Liv Tyler, Brad Dourif",5.5,7,ABD
 Baba Nerdesin Kayboldum,,Dram,Ahmet Karaman,09/07/2018,10090,126534,Öncesi ve Sonras? Film,"Bestemsu Özdemir, Baran Akbulut, Y?ld?z Ça?r? Atiksoy",5.6,2,Türkiye
 Arada,,"A?k, Dram, Müzik",Mu Tunç,04/13/2018,10077,122434,Rue De Pera Films,"Deniz Celilo?lu, Selim Bayraktar, Ceren Moray",4.8,3,Türkiye
-Suspiria,,"Korku, Gerilim",Luca Guadagnino,11/09/2018,10077,158724,"Francesco Melzi d'Eril, Kimberly Steward, Dario Argento","Dakota Johnson, Tilda Swinton, Mia Goth",6.7,3,"ABD, ?talya"
+Suspiria,,"Korku, Gerilim",Luca Guadagnino,11/09/2018,10077,158724,"Francesco Melzi d'Eril, Kimberly Steward, Dario Argento","Dakota Johnson, Tilda Swinton, Mia Goth",6.7,3,"ABD, ?talya
+
+"
 Daha Yeni Ba?lad?k,Just Getting Started,"Komedi, Aksiyon",Ron Shelton,05/18/2018,10416,134803,"Steve Richards, Bill Gerber","Tommy Lee Jones, Morgan Freeman, Rene Russo",4.5,8,ABD
 Tut Yüre?imden Anne,,Dram,"Burçin Ayd?n, Bülent Aydo?an",03/16/2018,10000,99895,JOY PR,"Tolga Yüce, Sermiyan Midyat, Naz Elmas",3.8,9,Türkiye
 Çirkin Kral Efsanesi,The Legend of the Ugly King,Belgesel,Hüseyin Tabak,10/26/2018,9919,92039,Mehmet Akta?,"Michael Haneke, Tar?k Akan,Halil Ergün",7.7,13,"Almanya, Avusturya"
@@ -1794,27 +1501,36 @@ Müze,Museo,"Dram, Suç",Alonso Ruizpalacios,10/26/2018,10293,107485,"Manuel Alcal
 Ölüm Odas?,The Vault,"Korku, Gerilim",Dan Bush,01/05/2018,6412,80285,"Laura Hastings-Smith, Alison Owen, Paul Trijbits","James Franco, Taryn Manning, Francesca Eastwood",4.8,5,ABD
 Vallahi Hortlad?,,Komedi,Volkan Ad?yaman,04/20/2018,6325,71456,Film Maker Produksiyon,"Burak ?ahin, Do?a Konako?lu, Bülent Mert",2.6,3,Türkiye
 Kalp At??? Dakikada 120,"120 battements par minute, 120 Beats Per Minute",Dram,Robin Campillo,12/29/2017,6320,65321,"Jacques Audiard, Marie-Ange Luciani, Hugues Charbonneau","Adèle Haenel, Nahuel Pérez Biscayart, Arnaud Valois",7.4,8,Fransa
-Karavan,The Leisure Seeker,"Macera, A?k, Dram",Paolo Virzì, 29.06.2018,6212,71649,"Marco Cohen , Fabrizio Donvito , Benedetto Habib ","Helen Mirren, Donald Sutherland, Kirsty Mitchell",6.7,5,"Fransa, ?talya"
+Karavan,The Leisure Seeker,"Macera, A?k, Dram",Paolo Virzì, 29.06.2018,"
+6.212",71649,"Marco Cohen , Fabrizio Donvito , Benedetto Habib ","Helen Mirren, Donald Sutherland, Kirsty Mitchell",6.7,5,"Fransa, ?talya"
 Paray? Bulduk,,Komedi,?hsan Ta?,12/29/2017,6080,64553,Ta? Film,"Ersin Korkut, Afrikal? Ali, Alay Cihan",2.1,4,Türkiye
-Deniz K?y?s?ndaki Ev,La villa,Dram,Robert Guédiguian,07/13/2018,6079,57592," Robert Guédiguian, Marc Bordure.","Ariane Ascaride, Jean-Pierre Darroussin, Gérard Meylan",6.5,9,Fransa
+Deniz K?y?s?ndaki Ev,La villa,Dram,Robert Guédiguian,07/13/2018,6079,?57.592," Robert Guédiguian, Marc Bordure.
+","Ariane Ascaride, Jean-Pierre Darroussin, Gérard Meylan",6.5,9,Fransa
 ?eytan Geçidi Enhara,,"Korku, Gerilim",Onur Aldo?an,12/07/2018,6402,64881,HM Productions,"Yasemin Y?ld?z Gürler, Burak Küçük, Tayfun Turhan",6.3,11,Türkiye
-Muhte?em Kad?n,"Una Mujer Fantástica, A Fantastic Woman",Dram,Sebastián Lelio,04/13/2018,5901,60461,"Sebastián Lelio, Gonzalo Maza, Pablo Larraín","Luis Gnecco, Daniela Vega, Francisco Reyes",7.2,8,"ABD, Almanya, ?spanya, ?ili"
-Kap?mdaki A?k,Home Again,"Romantik-Komedi, Dram",Hallie Meyers-Shyer,09/21/2018,5841,87978," Nancy Meyers, Erika Olde","Reese Witherspoon, Michael Sheen, Candice Bergen",5.8,3,ABD
+Muhte?em Kad?n,"Una Mujer Fantástica, A Fantastic Woman",Dram,Sebastián Lelio,04/13/2018,"
+5.901
+",60461,"Sebastián Lelio, Gonzalo Maza, Pablo Larraín","Luis Gnecco, Daniela Vega, Francisco Reyes",7.2,8,"ABD, Almanya, ?spanya, ?ili"
+Kap?mdaki A?k,Home Again,"Romantik-Komedi, Dram",Hallie Meyers-Shyer,09/21/2018,5841,?87.978," Nancy Meyers, Erika Olde","Reese Witherspoon, Michael Sheen, Candice Bergen",5.8,3,ABD
 Don Ki?ot'u Öldüren Adam,The Man Who Killed Don Quixote,"Macera, Komedi, Dram",Terry Gilliam,12/07/2018,7976,92067,"Paulo Branco , Amy Gilliam , Jeremy Thomas ,","Adam Driver, Jonathan Pryce, Stellan Skarsgård",6.3,8,"Belçika, Birle?ik Krall?k, Fransa, ?spanya, Portekiz"
 Zerk,,"Korku, Gerilim, Gizem",Battal Karsl?o?lu, 21.12.2018,5825,73624,Trio Pictures A.?.,"Ahu Sungur, Ergün Demir, Açelya Elmas",6,1,Türkiye
 Bir Nefes Ötede,"Dans la brume, Just a Breath Away",Bilim-Kurgu,Daniel Roby,04/27/2018,5785,69971," Nicolas Duval-Adassovsky, Guillaume Colboc","Olga Kurylenko, Romain Duris, Fantine Harduin",5.9,4,Fransa
 Yol Kenar?,,"Gerilim, Dram",Tayfun Pirselimo?lu, 25.06. 2018,6322,49830,Mitra Filmcilik,"Taner Birsel, Tansu Biçer, R?za Ak?n",6,9,"Türkiye, Yunanistan"
 E?itlik Sava?ç?s?,On the Basis of Sex,"Dram, Biyografi",Mimi Leder,12/28/2018,7758,132951,"Robert W. Cort, Jonathan King","Felicity Jones, Justin Theroux, Armie Hammer",7.1,4,ABD
-?a?k?nlar Çetesi,,Komedi,Kamil Ayd?n,05/04/2018,5651,46659,Genç Popülist Medya,"Murat Ercanl?, Umut Tanyolu, Oktay Gürsoy",0,7,Türkiye
-?eytan Kulesi,The Forlorned,Korku,Andrew Wiest, 13.07.2018,5449,66920," Andrew Wiest, Ryan Reed, Robert Milo Andrus","Colton Christensen, Elizabeth Mouton, Cory Dangerfield",4.3,2,ABD
+?a?k?nlar Çetesi,,Komedi,Kamil Ayd?n,05/04/2018,"
+5.651",46659,Genç Popülist Medya,"Murat Ercanl?, Umut Tanyolu, Oktay Gürsoy",0,7,Türkiye
+?eytan Kulesi,The Forlorned,Korku,Andrew Wiest, 13.07.2018,"
+5.449",66920," Andrew Wiest, Ryan Reed, Robert Milo Andrus","Colton Christensen, Elizabeth Mouton, Cory Dangerfield",4.3,2,ABD
 Cin Ç?karmas?,My Guardian Angel,Korku,Mümtaz Y?ld?r?mlar,11/19/1914,5437,58906,Mümtaz Y?ld?r?mlar,"Petra Bryant, Maria Figgins, Adrian Annis",4.6,4,Birle?ik Krall?k
 Mekânlar ve Yüzler,"Visages villages, Faces Places",Belgesel,"Agnès Varda, JR",03/09/2018,6557,56295,Rosalie Varda,"JR, Agnès Varda, Jean-Luc Godard",7.8,14,Fransa
 Gringo,,"Komedi, Dram, Aksiyon",Nash Edgerton,03/09/2018,5291,85203,"Trish Hofmann,Beth Kono,Anthony Tambakis","Melonie Diaz, Diego Cataño, David Oyelowo",6.1,1,"ABD, Avustralya"
 Mirasç?lar,Las herederas,Dram,Marcelo Martinessi,10/12/2018,6725,55567,"Sebastián Peña Escobar,Marcelo Martinessi,","Ana Brun, Margarita Irun, Ana Ivanova",6.6,10,"Almanya, Brezilya, Fransa, Norveç, Paraguay, Uruguay"
 Whitney,,"Belgesel, Biyografi, Müzik",Kevin Macdonald,11/16/2018,6550,73724,"Simon Chinn,Lisa Erspamer,Jonathan Chinn"," Whitney Houston, Kevin Costner, Aretha Franklin",7.3,14,"ABD, Birle?ik Krall?k"
 ?ngiltere Benim,England Is Mine,"Dram, Biyografi",Mark Gill,01/05/2018,5219,53026,"Orian Williams,Baldwin Li","Jessica Brown Findlay, Jack Lowden, Jodie Comer",5.8,8,Birle?ik Krall?k
-?talyan Usulü A?k,Little Italy,Romantik-Komedi,Donald Petrie,08/31/2018,5705,84660,"Ajay Virmani,Vinay Virmani,Pauline Dhillon","Hayden Christensen, Emma Roberts, Alyssa Milano",5.7,5,"ABD, Kanada"
-The Florida Project,The Florida Project,Dram,Sean Baker,02/23/2018,5071,54229,"Sean Baker, Chris Bergoch, Shih-Ching Tsou","Willem Dafoe, Caleb Landry Jones, Brooklynn Prince",7.6,6,ABD
+?talyan Usulü A?k,Little Italy,Romantik-Komedi,Donald Petrie,08/31/2018,5705,84660,"Ajay Virmani,Vinay Virmani,Pauline Dhillon","Hayden Christensen, Emma Roberts, Alyssa Milano",5.7,5,"ABD, Kanada
+
+"
+The Florida Project,The Florida Project,Dram,Sean Baker,02/23/2018,5071,54229,"Sean Baker, Chris Bergoch, Shih-Ching Tsou","Willem Dafoe, Caleb Landry Jones, Brooklynn Prince",7.6,6,"ABD
+"
 Locman,Locman,"Aile, Dram",?ükrü Alaçam,03/09/2018,5053,53693,3 27 Film Yap?m,"Alican Yücesoy, Cem Cüceno?lu, Yeliz Kuvanc?",6.2,7,Türkiye
 Samson,Samson,"Dram, Aksiyon","Bruce Macdonald, Gabriel Sabloff",02/23/2018,5033,65341," Bruce Macdonald, David A. R. White, Michael Scott","Billy Zane, Taylor James, Caitlin Leahy",4.5,4,"ABD, Güney Afrika"
 Dovlatov,Dovlatov,"Dram, Biyografi",Aleksey German,08/10/2018,4986,57067," Andrey Savelyev, Artyom Vasilev, Dariusz Jab?o?ski","Milan Maric, Danila Kozlovsky, Helena Sujecka",6.4,9,"Polonya, Rusya, S?rbistan"
@@ -2004,7 +1720,7 @@ Güzel ve Çirkin,Beauty and the Beast,"A?k, Aile, Fantastik, Müzikal, 3 Boyutlu, 
 Halka 3,Rings,Korku,F. Javier Gutiérrez,02/03/2017,243393,2986412,Walter F. Parkes,"Vincent D'Onofrio, Alex Roe, Aimee Teegarden",4.5,5,ABD
 Bölük,,Dram,Aytaç A??rlar,10/20/2017,241916,2837176,TAFF,"Olgu Baran Kubilay, Hakan Kurta?, Mehmet Selim Akgül",7.1,5,Türkiye
 Kingsman: Alt?n Çember,Kingsman: The Golden Circle,"Macera, Komedi, Aksiyon, IMAX",Matthew Vaughn,09/22/2017,241373,3367586,"Matthew Vaughn, David Reid","Julianne Moore, Halle Berry, Colin Firth",6.7,6,ABD
-OHA Diyorum,,Komedi,Ersan Özer,11/03/2017,230618,2957500,"Muhte?em Film, TME Films, MediakraftTürkiye","Alper Rende, Melih Abuaf, F?rat Sobutay",1.6,8,Türkiye
+OHA Diyorum,,Komedi,Ersan Özer,11/03/2017,230618,2957500,"Muhte?em Film, TME Films, Mediakraft Türkiye","Alper Rende, Melih Abuaf, F?rat Sobutay",1.6,8,Türkiye
 Do?u Ekspresinde Cinayet,Murder on the Orient Express,"Dram, Suç, Gizem",Kenneth Branagh,11/10/2017,228927,3411837," Ridley Scott, Mark Gordon","Kenneth Branagh, Daisy Ridley, Johnny Depp",8,6.5,ABD
 Resident Evil: Son Bölüm,Resident Evil: The Final Chapter,"Korku, Gerilim, 3 Boyutlu",Paul W.S. Anderson,02/24/2017,224921,2890024,"Paul W. S. Anderson, Jeremy Bolt","Milla Jovovich, Ruby Rose, Ali Larter",5.5,5,ABD
 Damat Tak?m?,,Romantik-Komedi,Do?a Can Anafarta,10/20/2017,236700,2819178,Asteros,"Furkan And?ç, Özgürcan Çevik, Pelin Akil",5.2,9,Türkiye
@@ -2143,8 +1859,12 @@ Mezarc?,,"Komedi, Dram",Talip Karamahmuto?lu,08/11/2017,16140,149219,Kuzey Film,
 Miraç,,Dram,Enes Hakan Tokyay,04/21/2017,15605,142271,Galibarda Fikir Sanat,"Meltem Miralo?lu, Ufuk Bayraktar, Arda ?ahin",4.6,11,Türkiye
 Cenaze ??leri,,Komedi,Korhan U?ur,09/08/2017,15578,70826,"Sayg?n Film, Serpil Alt?n Film","Melih Selçuk, Melis Cemre Ç?nar, Ergun Kuyucu",3.6,4,Türk?ye
 The Bye Bye Man,,"Korku, Gerilim",Stacy Title,07/07/2017,14864,170093,"Trevor Macy, Simon Horsman, Jeffrey Soros","Douglas Smith, Lucien Laviscount, Jenna Kanell",4.3,4,ABD
-Spark: Bir Uzay Maceras?,Spark,Animasyon,Aaron Woodley,07/07/2017,14578,160129,"Hyungkon Kim, Bill Bindley,Woo-Kyung Jung","Jessica Biel, Hilary Swank, Susan Sarandon",4.4,8,"Güney Kore, Kanada"
-Ben Ölmeden Önce,Before I Fall,Dram,Ry Russo-Young,03/17/2017,14275,220641,"Matt Kaplan, Brian Robbins, Jonathan Shestack","Halston Sage, Zoey Deutch, Elena Kampouris",6.9,5,ABD
+Spark: Bir Uzay Maceras?,Spark,Animasyon,Aaron Woodley,07/07/2017,"
+14.578",160129,"Hyungkon Kim, Bill Bindley,Woo-Kyung Jung","Jessica Biel, Hilary Swank, Susan Sarandon",4.4,8,"Güney Kore, Kanada"
+Ben Ölmeden Önce,Before I Fall,Dram,Ry Russo-Young,03/17/2017,14275,220641,"Matt Kaplan, Brian Robbins
+, Jonathan Shestack
+
+","Halston Sage, Zoey Deutch, Elena Kampouris",6.9,5,ABD
 Benzersiz,,"Komedi, Aksiyon, Gizem",?lker Sar?,09/15/2017,13969,149956,Lal Sanat Atölyesi,"Cemal Hünal, Ekin Türkmen, Ruhi Sar?",4.4,5,Türkiye
 Koca Dünya,,Dram,Reha Erdem,04/07/2017,15989,140357,Atlantik Medya,"Ecem Uzun, Berke Karaer, Melisa Akman",6.8,23,Türkiye
 "Ben, Daniel Blake","I, Daniel Blake","Dram, Politik",Ken Loach,12/30/2016,14481,154605,Rebecca O'Brien,"Dave Johns, Hayley Squires, Sharon Percy",7.8,22,"Belçika, Birle?ik Krall?k, Fransa"
@@ -2343,7 +2063,8 @@ Küçük Esnaf,,Komedi,Bedran Güzel,04/08/2016,832050,9017874,BKM,"Kaan Y?lmaz, ?br
 Doktor Strange,Doctor Strange,"Macera, Aksiyon, 3 Boyutlu",Scott Derrickson,11/04/2016,827731,11232742,Kevin Feige,"Tilda Swinton, Rachel McAdams, Benedict Cumberbatch",7.5,7,ABD
 ?kinci ?ans,,"A?k, Dram",Özcan Deniz,11/18/2016,823083,9083462,"Av?ar Film, DNZ Film","An?l Alt?nöz, Mesut Can Tomay, Afra Saraço?lu",5.7,12,Türkiye
 Bir Baba Hindu,,Komedi,Sermiyan Midyat,09/30/2016,769260,8350355,BKM,"Sermiyan Midyat, Nicole Faria, Burak Sat?bol",2.6,10,Türkiye
-Sihirbazlar Çetesi 2,Now You See Me 2,"Gerilim, Aksiyon",Jon M. Chu,06/10/2016,747288,8744056,"Bobby Cohen, Alex Kurtzman, Roberto Orci","Morgan Freeman, Woody Harrelson, Michael Caine",6.4,13,ABD
+Sihirbazlar Çetesi 2,Now You See Me 2,"Gerilim, Aksiyon",Jon M. Chu,06/10/2016,"
+747.288",8744056,"Bobby Cohen, Alex Kurtzman, Roberto Orci","Morgan Freeman, Woody Harrelson, Michael Caine",6.4,13,ABD
 ?yi Bir Dinozor,The Good Dinosaur,"Animasyon, 3 Boyutlu",Peter Sohn,01/15/2016,718008,8898180,Denise Ream,"Raymond Ochoa, Frances McDormand, Jeffrey Wright",6.7,11,ABD
 Dirili?,The Revenant,"Macera, Dram",Alejandro Gonzalez Inarritu,01/22/2016,633864,8861466,Arnon Milchan; ?Steve Golin?; David Kanter,"Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson",8,18,ABD
 Bizans Oyunlar? - Geym of Bizans,,Komedi,Gani Müjde,01/15/2016,620380,6900208,Av?ar Film,"Tuvana Türkay, Tolgahan Say??man, Murat Dalk?l?ç",3.7,6,Türkiye
@@ -2395,7 +2116,8 @@ Jack Reacher: Asla Geri Dönme,Jack Reacher: Never Go Back,"Macera, Aksiyon",Edwa
 Benim Ad?m Feridun,,"Komedi, A?k, Dram",Ça?an Irmak,11/11/2016,197217,2270659,TAFF,"Defne Yaln?z, Ay?e Tunaboylu, Rahmi Dilligil",5.3,4,Türkiye
 Geni? Aile 2: Her Türlü,,Komedi,Ömer U?ur,11/04/2016,197144,2118223,Barakuda Film,"Ufuk Özkan, F?rat Tan??, Bülent Çolak",4.6,10,Türkiye
 Alis Harikalar Diyar?nda: Aynan?n ?çinden,,"Macera, Fantastik, 3 Boyutlu",James Bobin,05/27/2016,192815,2383115,"Joe Roth, Suzanne Todd, Jennifer Todd","Andrew Scott, Ed Speleers, Johnny Depp",6.2,7,ABD
-?ark?n? Söyle,Sing,"Animasyon, 3 Boyutlu","Garth Jennings, Christophe Lourdelet",12/09/2016,189760,2487887,"Chris Meledandri, Janet Healy"," Matthew McConaughey, Reese Witherspoon, Seth MacFarlane",7.1,7,ABD
+?ark?n? Söyle,Sing,"Animasyon, 3 Boyutlu","Garth Jennings, Christophe Lourdelet",12/09/2016,189760,2487887,"Chris Meledandri, Janet Healy"," 
+Matthew McConaughey, Reese Witherspoon, Seth MacFarlane",7.1,7,ABD
 Korku Seans? 2,The Conjuring 2,Korku,James Wan,06/10/2016,178115,2073026,"Peter Safran, Rob Cowan, James Wan","Franka Potente, Patrick Wilson, David Thewlis",7.3,11,ABD
 Sully,,"Dram, Biyografi",Clint Eastwood,09/09/2016,175055,2517294,"Clint Eastwood, Frank Marshall, Allyn Stewart","Tom Hanks, Laura Linney, Aaron Eckhart",7.4,10,ABD
 Alamet-i K?yamet,,"Korku, Gerilim",Do?a Can Anafarta,05/20/2016,170242,1580111,Asteros,"Bü?ra Çubukçuo?lu, Funda Ersin, Murat Onuk",4.6,17,Türkiye
@@ -2485,7 +2207,8 @@ Gece Hayvanlar?,Nocturnal Animals,"Gerilim, Dram",Tom Ford,12/09/2016,30311,4692
 Carol,Carol,"A?k, Dram",Todd Haynes,02/05/2016,30229,482268,"Elizabeth Karlsen, Stephen Woolley,Christine Vachon","Cate Blanchett, Rooney Mara, Jake Lacy",7.2,16,Birle?ik Krall?k
 Danimarkal? K?z,The Danish Girl,"Dram, Biyografi",Tom Hooper,02/12/2016,29811,504816," Tim Bevan, Eric Fellner, Tom Hooper","Ben Whishaw, Holly Weston, Eddie Redmayne",7.1,7,ABD
 Yüce Adalet,The Whole Truth,"Gerilim, Dram",Courtney Hunt,08/19/2016,29731,408614,"Elon Dershowitz, Raj Brinder Singh, Anthony Bregman","Keanu Reeves, Renée Zellweger, Gugu Mbatha-Raw",6.2,3,ABD
-Merkezi ?stihbarat,Central Intelligence,"Komedi, Aksiyon",Rawson Marshall Thurber,06/17/2016,28275,382721, New Line Cinema,"Amy Ryan, Danielle Nicolet, Dwayne Johnson",6.3,4,ABD
+Merkezi ?stihbarat,Central Intelligence,"Komedi, Aksiyon",Rawson Marshall Thurber,06/17/2016,28275,382721," 
+New Line Cinema","Amy Ryan, Danielle Nicolet, Dwayne Johnson",6.3,4,ABD
 Kral ?çin Hologram,A Hologram for the King,Dram,Tom Tykwer,04/22/2016,28058,397832," Stefan Arndt , Gary Goetzman , Arcadiy Golubovich","Tom Hanks, Ben Whishaw, Sarita Choudhury",6.1,10,"ABD, Almanya, Birle?ik Krall?k, Fransa"
 Yeniden Ba?la,Demolition,Dram,Jean-Marc Vallee,04/08/2016,27961,384193,"Lianne Halfon , Thad Luckinbill , Trent Luckinbill","Naomi Watts, Jake Gyllenhaal, Chris Cooper",7,12,ABD
 Kabustan Gelen,Before I Wake,Korku,Mike Flanagan,08/05/2016,27483,282708,"Sam Englebardt , William D. Johnson , Trevor Macy ","Thomas Jane, Kate Bosworth, Jacob Tremblay",6.2,3,ABD
@@ -2531,7 +2254,8 @@ Bol ?ans,,"A?k, Dram",Gökhan Y?lmaz,08/19/2016,12786,128046,Angle Production,"Em
 Kurtar?c?,Extraction,"Gerilim, Aksiyon",Steven C. Miller,08/05/2016,12521,148604,Max Adams,"Kellan Lutz, Bruce Willis, Gina Carano",4.1,5,Kanada
 Köstebek,Imperium,Gerilim,Daniel Ragussis,09/16/2016,12489,167129,"Barry Brooker , Jeff Elliott , Warren T. Goz","Toni Collette, Daniel Radcliffe, Burn Gorman",6.5,2,ABD
 Hain,Our Kind of Traitor,Gerilim,Susanna White,07/22/2016,12463,169703," Andrea Calderwood , Simon Cornwell , Stephen Cornwell","Ewan McGregor, Stellan Skarsgård, Naomie Harris",6.2,4,"Birle?ik Krall?k, Fransa"
-Babalar Sava??yor,Daddy's Home,Komedi,"Sean Anders, John Morris",03/04/2016,12162,180933," Joey Mcfarland , Riza Aziz","Will Ferrell, Mark Wahlberg, Linda Cardellini",6.1,6,ABD
+Babalar Sava??yor,Daddy's Home,Komedi,"Sean Anders, John Morris","4 Mart 2016
+",12162,180933," Joey Mcfarland , Riza Aziz","Will Ferrell, Mark Wahlberg, Linda Cardellini",6.1,6,ABD
 Zoolander 2,Zoolander 2,Komedi,Ben Stiller,04/08/2016,11982,168759," Ben Stiller , Stuart Cornfeld , Marco Valerio Pugini","Kristen Wiig, Cara Delevingne, Nazanin Boniadi",4.7,2,ABD
 Ceberrut,,"Korku, Gerilim",Özgür Yelence,03/04/2016,11862,110532,Bor Yap?m,"Yakup Yavru, Sinan Bengier, Merve Akayd?n",3.3,4,Türkiye
 Ölüm Emri,Eye in the Sky,"Gerilim, Sava?, Aksiyon",Gavin Hood,04/08/2016,11663,156922,Colin Firth,"Helen Mirren, Aaron Paul, Alan Rickman",7.3,4,Birle?ik Krall?k
@@ -3188,9 +2912,12 @@ Günah ?ehri: U?runa Öldürülecek Kad?n,Sin City: A Dame to Kill For,"Suç, Aksiyon
 K?r?ml?,,"Tarihi, Sava?",Burak Arl?el,12/12/2014,79507,851012,TFT Yap?m,"Murat Y?ld?r?m, Ali Bark?n, Selma Ergeç",7.2,5,Türkiye
 Delisin! Delisin!,,Komedi,Tolga Ba?,10/24/2014,78668,756703,"Artist Film Yap?m, ILS Vision","Çetin Altay, Pascal Nouma, Selman Ünlüsoy",3.7,8,Türkiye
 Halam Geldi,,Dram,Ümit Ç?rak,01/03/2014,77106,695138,"Do?a Yap?m, Sami Dündar Film",Ümit Ç?rak,7.2,27,Türkiye
-Kaç?? Plan?,Escape Plan,"Gerilim, Aksiyon",Mikael Håfström,01/10/2014,73255,844815,"Randall Emmett,Mark Canton,Brandon Grimes","Sylvester Stallone, Arnold Schwarzenegger, Vincent D'Onofrio",6.7,5,ABD
-12 Y?ll?k Esaret,12 Years a Slave,Dram,Steve McQueen,01/24/2014,73087,983170,"Steve McQueen,Brad Pitt,Arnon Milchan","Benedict Cumberbatch, Scoot McNairy, Chiwetel Ejiofor",8.1,18,ABD
-Büyüler Evi: Sihirbaz Kedi,The House of Magic,"Animasyon, 3 Boyutlu","Ben Stassen, Jérémie Degruson",04/04/2014,72641,856411,"Ben Stassen,Caroline Van Iseghem"," Doug Stone, Volkan Severcan, Grant George",6.2,18,Belçika
+Kaç?? Plan?,Escape Plan,"Gerilim, Aksiyon",Mikael Håfström,01/10/2014,73255,844815,"Randall Emmett,Mark Canton,Brandon Grimes
+","Sylvester Stallone, Arnold Schwarzenegger, Vincent D'Onofrio",6.7,5,ABD
+12 Y?ll?k Esaret,12 Years a Slave,Dram,Steve McQueen,01/24/2014,73087,983170,"Steve McQueen,Brad Pitt,Arnon Milchan
+","Benedict Cumberbatch, Scoot McNairy, Chiwetel Ejiofor",8.1,18,ABD
+Büyüler Evi: Sihirbaz Kedi,The House of Magic,"Animasyon, 3 Boyutlu
+","Ben Stassen, Jérémie Degruson",04/04/2014,72641,856411,"Ben Stassen,Caroline Van Iseghem"," Doug Stone, Volkan Severcan, Grant George",6.2,18,Belçika
 Annabelle,,Korku, John R. Leonetti,10/24/2014,70618,796075,James Wan,"Ward Horton, Gabriel Bateman, Annabelle Wallis",5.4,4,ABD
 Fakat Müzeyyen Bu Derin Bir Tutku,,"A?k, Dram",Çi?dem Vitrinel,12/12/2014,73134,865537,"Bir Film, Mars Production","Erdal Be?ikçio?lu, Hare Sürel, Görkem Mertsöz",6.6,15,Türkiye
 K?? Masal?,Winter's Tale,"Fantastik, Dram", Akiva Goldsman,02/28/2014,64920,800491,"Akiva Goldsman,Marc Platt","Jennifer Connelly, Russell Crowe, Colin Farrell",6.1,6,ABD
@@ -3261,7 +2988,8 @@ Unutulmaz A?k,The Best of Me,"A?k, Dram",Michael Hoffman,10/17/2014,20066,248059
 Sensiz Olmaz,"Tengo Ganas de Ti, I Want You","A?k, Dram",Fernando González Molina,04/25/2014,19527,174877,Mercedes Gamero,"Mario Casas, Clara Lago, María Valverde",6.8,17,?spanya
 Barselona'da Bir Yaz Gecesi,"Barcelona, Nit D'estiu, Barcelona Summer Night",Komedi,Dani de la Orden,07/18/2014,19599,219810,Alberto Aranda,"Francesc Colomer, Jan Cornet, Laura Díaz",6.2,25,?spanya
 Gece,,Dram,Erden K?ral,11/14/2014,19160,208182,Deniz Film,"Nurgül Ye?ilçay, Mert F?rat, Vildan Atasever",5.2,9,Türkiye
-Sürpriz Damatlar,Qu'est-ce qu'on a fait au Bon Dieu? (Serial (Bad) Weddings),Komedi,Philippe de Chauveron,08/22/2014,19705,232499,Romain Rojtman,"Nicolas Wanczycki, Christian Clavier",7,22,Fransa
+Sürpriz Damatlar,Qu'est-ce qu'on a fait au Bon Dieu? (Serial (Bad) Weddings),Komedi,Philippe de Chauveron,08/22/2014,19705,"232.499
+",Romain Rojtman,"Nicolas Wanczycki, Christian Clavier",7,22,Fransa
 Ocak Ay?n?n ?ki Yüzü,The Two Faces of January,Gerilim,Hossein Amini,05/16/2014,18743,244312,Tim Bevan,"Viggo Mortensen, Kirsten Dunst, Oscar Isaac",6.2,3,"ABD, Birle?ik Krall?k, Fransa"
 Mezar?na Tükürece?im 2,I Spit on Your Grave 2,"Korku, Gerilim",Steven R. Monroe,07/04/2014,18076,173148,"Lisa M. Hansen, Paul Hertzberg","Jemma Dallender, Yavor Baharov, Joe Absolom",5.7,4,ABD
 Oldboy,,"Macera, Gerilim",Spike Lee,01/03/2014,17927,225821,"Spike Lee , Roy Lee , Doug Davison","Samuel L. Jackson, Josh Brolin, Elizabeth Olsen",5.8,20,ABD
@@ -3469,7 +3197,8 @@ G.D.O. KaraKedi,,"Macera, Komedi",Murat Aslan,01/25/2013,403000,3874224,Setra Fi
 Behzat Ç. Ankara Yan?yor,,Macera,Serdar Akar,11/01/2013,404100,4277647,"Adam Film, Fida Film","Erdal Be?ikçio?lu, Tu?rul Tülek, Sadi Celil Cengiz",7.4,12,Türkiye
 Uçaklar,Planes,"Animasyon, 3 Boyutlu",Klay Hall,08/23/2013,398721,4385985," Traci Balthazor , John Lasseter","Dane Cook, Priyanka Chopra Jonas, Julia Louis-Dreyfus",5.7,18,ABD
 Yerçekimi,Gravity,"Gerilim, Bilim-Kurgu, 3 Boyutlu",Alfonso Cuaron,10/11/2013,395872,5544661," Alfonso Cuarón, David Heyman","Sandra Bullock, George Clooney",7.7,8,ABD
-Oblivion,,"Bilim-Kurgu, Aksiyon",Joseph Kosinski,04/12/2013,390380,4190915," Joseph Kosinski, Peter Chernin Dylan Clark","Tom Cruise, Olga Kurylenko, Melissa Leo",7,16,ABD
+Oblivion,,"Bilim-Kurgu, Aksiyon",Joseph Kosinski,04/12/2013,390380,4190915," 
+Joseph Kosinski, Peter Chernin Dylan Clark","Tom Cruise, Olga Kurylenko, Melissa Leo",7,16,ABD
 Sevimli Canavarlar Üniversitesi,Monsters University,"Animasyon, 3 Boyutlu", Dan Scanlon,06/21/2013,361053,3647164, Kori Rae,"Billy Crystal, John Goodman, Steve Buscemi",7.2,17,ABD
 Mutlu Aile Defteri,,"Komedi, Dram", Nihat Durak,02/08/2013,348664,3332313,Tim's,"?lker Aksum, Bü?ra Pekin, Tuncel Kurtiz",6,28,Türkiye
 Riddick,,"Bilim-Kurgu, Fantastik",David Twohy,10/04/2013,333317,3502254,"Vin Diesel , Mike Drake , Samantha Vincent","Vin Diesel, Matt Nable, Dave Bautista",6.4,21,ABD
@@ -3643,7 +3372,7 @@ Dü?ler Diyar?,Beasts of the Southern Wild,Dram,Benh Zeitlin,01/11/2013,13143,123
 Sadece Tanr? Affeder,Only God Forgives,"Gerilim, Dram, Suç",Nicolas Winding Refn,07/05/2013,11834,117121," Lene Børglum , Johnny Andersen , Jessica Ashworth","Kristin Scott Thomas, Ryan Gosling",5.7,22,"Danimarka, Fransa"
 A?k Seanslar?,The Sessions,Dram,Ben Lewin,02/22/2013,10470,121929, Doug Blake,"Helen Hunt, John Hawkes, Robin Weigert",7.2,15,ABD
 Eksik Sayfalar,,Gerilim, Ozan Çobano?lu,05/10/2013,11950,93702,?lter Yap?m,"Soydan Soyda?, Sanem ??ler, Kaan Çak?r",5.8,6,Türkiye
-Zoraki ?kili,"De L'autre Cote du Periph, On The Other Side Of The Freeway",Komedi,David Charhon,05/03/2013,10125,83776, Eric Altmayer,"Sabrina Ouazani, Youssef Hajdi",5.8,17,Fransa
+Zoraki ?kili,"De L'autre Cote du Periph, On The Other Side Of The Freeway",Komedi, David Charhon,05/03/2013,10125,83776, Eric Altmayer,"Sabrina Ouazani, Youssef Hajdi",5.8,17,Fransa
 Mavi En S?cak Renktir,"La vie d'Adèle, Blue Is the Warmest Color","A?k, Dram",Abdellatif Kechiche,11/08/2013,12810,136049, Abdellatif Kechiche,"Léa Seydoux, Adèle Exarchopoulos",7.7,19,Fransa
 Gitme Baba,,Dram,Ahmet Sönmez,05/10/2013,9336,55112,Özen Film,"Volkan Cal, Çi?dem Suyolcu, Mustafa U?urlu",6.2,11,Türkiye
 Mc Dandik,,Komedi, Ragga Oktay,12/06/2013,9488,75370,Paprika,"Özay Fecht, Suna Selen",1.9,6,Türkiye
@@ -3707,7 +3436,7 @@ Bir Kad?n?n Gözya??,Therese Desqueyroux,Dram,Claude Miller,07/12/2013,3011,22941
 Benim Çocu?um,,"Aile, Belgesel",Can Candan,06/07/2013,3228,26050,Surela Film,Listag Kat?l?mc?lar?,8.1,8,Türkiye
 Bir Hayalimiz Vard?,Ginger & Rosa,Dram,Sally Potter,09/06/2013,3006,31374,"Jonas Allen , Reno Antoniades , Lene Bausager","Timothy Spall, Alessandro Nivola, Alice Englert",6.2,7,"Birle?ik Krall?k, Danimarka, Kanada"
 Hayat Avc?s?,The Imposter,"Belgesel, Biyografi",Bart Layton,03/22/2013,2966,36998,Zayka Yap?m,"Adam O'Brian, Anna Ruben, Cathy Dresbach",7.5,15,Birle?ik Krall?k
-?blisin O?lu 13. Vah?et,,Korku,Emre Kaya,12/27/2013,4641,35636,Zafer Kaya,"Fevzi Altunbulak, Burakhan Keyif, Merve Uçar Cangöz",3.2,5,Türkiye
+?blisin O?lu 13. Vah?et,,Korku,Emre Kaya,12/27/2013,4641,,Zafer Kaya,"Fevzi Altunbulak, Burakhan Keyif, Merve Uçar Cangöz",3.2,5,Türkiye
 Hile Yolu,,Dram,Ersin Kana,04/26/2013,2832,29949,Pancard,"Ozan Bilen, Serkan Yakan, Halil ?brahim Aras",5.9,5,Türkiye
 Y?l?n Sava??,Battle of the Year: The Dream Team,"Dram, 3 Boyutlu",Benson Lee,12/06/2013,2797,38504,"Beau Flynn , Glenn S. Gainor , Amy Lo","Josh Holloway, Laz Alonso, Josh Peck",4.9,2,ABD
 Sanal Hayatlar,Disconnect,Dram,Henry Alex Rubin,07/26/2013,2741,33772,"Marc Forster , William Horberg , Brad Simpson","Frank Grillo, Paula Patton, Alexander Skarsgård",7.5,6,ABD
